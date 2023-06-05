@@ -9,7 +9,7 @@ NEXTPNR=nextpnr-ice40
 SHELL=bash
 
 # project vars and filenames
-PROJ	= $(info Current Folder: $(notdir $(CURDIR))) #<project_name>
+PROJ	= proj5
 PINMAP 	= pinmap.pcf
 TCLPREF = addwave.gtkw
 SRC	= top.sv
