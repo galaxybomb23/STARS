@@ -64,7 +64,7 @@
         }
       },
       "cells": {
-        "$specify$242": {
+        "$specify$201": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -95,7 +95,7 @@
             "SRC": [ 6 ]
           }
         },
-        "$specify$243": {
+        "$specify$202": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -126,7 +126,7 @@
             "SRC": [ 2 ]
           }
         },
-        "$specify$244": {
+        "$specify$203": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -157,7 +157,7 @@
             "SRC": [ 2 ]
           }
         },
-        "$specify$245": {
+        "$specify$204": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -188,7 +188,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$246": {
+        "$specify$205": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -219,7 +219,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$247": {
+        "$specify$206": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -250,7 +250,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$248": {
+        "$specify$207": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -281,7 +281,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$249": {
+        "$specify$208": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -312,7 +312,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$250": {
+        "$specify$209": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -343,7 +343,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$251": {
+        "$specify$210": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -374,7 +374,7 @@
             "SRC": [ 5 ]
           }
         },
-        "$specify$252": {
+        "$specify$211": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -405,7 +405,7 @@
             "SRC": [ 5 ]
           }
         },
-        "$specify$253": {
+        "$specify$212": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -442,7 +442,7 @@
             "SRC": [ 7 ]
           }
         },
-        "$specify$254": {
+        "$specify$213": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -473,7 +473,7 @@
             "SRC": [ 9 ]
           }
         },
-        "$specify$255": {
+        "$specify$214": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -508,7 +508,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$256": {
+        "$specify$215": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -543,7 +543,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$257": {
+        "$specify$216": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -578,7 +578,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$258": {
+        "$specify$217": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -613,7 +613,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$259": {
+        "$specify$218": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -648,7 +648,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$260": {
+        "$specify$219": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -683,7 +683,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$261": {
+        "$specify$220": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -718,7 +718,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$262": {
+        "$specify$221": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -753,7 +753,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$263": {
+        "$specify$222": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -788,7 +788,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$264": {
+        "$specify$223": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -823,7 +823,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$265": {
+        "$specify$224": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -858,7 +858,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$266": {
+        "$specify$225": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -893,7 +893,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$267": {
+        "$specify$226": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -928,7 +928,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$268": {
+        "$specify$227": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -963,7 +963,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$269": {
+        "$specify$228": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -998,7 +998,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$270": {
+        "$specify$229": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1033,7 +1033,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$271": {
+        "$specify$230": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1068,7 +1068,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$272": {
+        "$specify$231": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1103,7 +1103,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$273": {
+        "$specify$232": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1138,7 +1138,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$274": {
+        "$specify$233": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1173,7 +1173,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$275": {
+        "$specify$234": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1208,7 +1208,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$276": {
+        "$specify$235": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6378,7 +6378,7 @@
         }
       },
       "cells": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1661$361": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1661$320": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6402,7 +6402,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1663$362": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1663$321": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6426,7 +6426,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1669$363": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1669$322": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6450,7 +6450,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1673$364": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1673$323": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6474,7 +6474,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$206": {
+        "$specify$165": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6509,7 +6509,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$207": {
+        "$specify$166": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6544,7 +6544,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$208": {
+        "$specify$167": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6579,7 +6579,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$209": {
+        "$specify$168": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6614,7 +6614,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$210": {
+        "$specify$169": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6649,7 +6649,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$211": {
+        "$specify$170": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6684,7 +6684,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$212": {
+        "$specify$171": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6719,7 +6719,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$213": {
+        "$specify$172": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6754,7 +6754,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$214": {
+        "$specify$173": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -6793,28 +6793,28 @@
         }
       },
       "netnames": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1661$361_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1661$320_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1661.33-1661.44"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1663$362_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1663$321_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1663.34-1663.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1669$363_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1669$322_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1669.34-1669.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1673$364_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1673$323_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -6979,7 +6979,7 @@
         }
       },
       "cells": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1797$365": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1797$324": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7003,7 +7003,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1799$366": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1799$325": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7027,7 +7027,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1805$367": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1805$326": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7051,7 +7051,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1809$368": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1809$327": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7075,7 +7075,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$215": {
+        "$specify$174": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7110,7 +7110,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$216": {
+        "$specify$175": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7145,7 +7145,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$217": {
+        "$specify$176": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7180,7 +7180,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$218": {
+        "$specify$177": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7215,7 +7215,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$219": {
+        "$specify$178": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7250,7 +7250,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$220": {
+        "$specify$179": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7285,7 +7285,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$221": {
+        "$specify$180": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7320,7 +7320,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$222": {
+        "$specify$181": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7355,7 +7355,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$223": {
+        "$specify$182": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -7394,28 +7394,28 @@
         }
       },
       "netnames": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1797$365_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1797$324_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1797.33-1797.44"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1799$366_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1799$325_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1799.35-1799.46"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1805$367_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1805$326_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1805.34-1805.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1809$368_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1809$327_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -7580,7 +7580,7 @@
         }
       },
       "cells": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2069$373": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2069$332": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7604,7 +7604,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2071$374": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2071$333": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7628,7 +7628,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2077$375": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2077$334": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7652,7 +7652,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2081$376": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2081$335": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7676,7 +7676,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$233": {
+        "$specify$192": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7711,7 +7711,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$234": {
+        "$specify$193": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7746,7 +7746,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$235": {
+        "$specify$194": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7781,7 +7781,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$236": {
+        "$specify$195": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7816,7 +7816,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$237": {
+        "$specify$196": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7851,7 +7851,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$238": {
+        "$specify$197": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7886,7 +7886,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$239": {
+        "$specify$198": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7921,7 +7921,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$240": {
+        "$specify$199": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7956,7 +7956,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$241": {
+        "$specify$200": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -7995,28 +7995,28 @@
         }
       },
       "netnames": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2069$373_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2069$332_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2069.34-2069.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2071$374_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2071$333_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2071.35-2071.46"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2077$375_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2077$334_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2077.35-2077.46"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2081$376_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:2081$335_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -8181,7 +8181,7 @@
         }
       },
       "cells": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1933$369": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1933$328": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8205,7 +8205,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1935$370": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1935$329": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8229,7 +8229,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1941$371": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1941$330": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8253,7 +8253,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1945$372": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1945$331": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8277,7 +8277,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$224": {
+        "$specify$183": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8312,7 +8312,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$225": {
+        "$specify$184": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8347,7 +8347,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$226": {
+        "$specify$185": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8382,7 +8382,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$227": {
+        "$specify$186": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8417,7 +8417,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$228": {
+        "$specify$187": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8452,7 +8452,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$229": {
+        "$specify$188": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8487,7 +8487,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$230": {
+        "$specify$189": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8522,7 +8522,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$231": {
+        "$specify$190": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8557,7 +8557,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$232": {
+        "$specify$191": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -8596,28 +8596,28 @@
         }
       },
       "netnames": {
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1933$369_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1933$328_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1933.34-1933.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1935$370_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1935$329_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1935.34-1935.45"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1941$371_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1941$330_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1941.35-1941.46"
           }
         },
-        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1945$372_Y": {
+        "$logic_and$/home/shay/a/ece270/bin/../share/yosys/ice40/cells_sim.v:1945$331_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -9652,35 +9652,35 @@
         },
         "ss7": {
           "direction": "output",
-          "bits": [ 24, 25, 26, 27, 28, 29, 30, 31 ]
+          "bits": [ "1", "0", "0", 24, "1", "1", 24, "x" ]
         },
         "ss6": {
           "direction": "output",
-          "bits": [ 32, 33, 34, 35, 36, 37, 38, 39 ]
+          "bits": [ 24, 25, 25, 25, "1", "1", "0", "x" ]
         },
         "ss5": {
           "direction": "output",
-          "bits": [ 40, 41, 42, 43, 44, 45, 46, 47 ]
+          "bits": [ "1", 25, 25, "0", "1", "1", "0", "x" ]
         },
         "ss4": {
           "direction": "output",
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 48 ]
+          "bits": [ 24, 24, 24, 24, 24, 24, "0", "x" ]
         },
         "ss3": {
           "direction": "output",
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 49 ]
+          "bits": [ 24, "0", "0", "0", 24, 24, "0", "x" ]
         },
         "ss2": {
           "direction": "output",
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 50 ]
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ]
         },
         "ss1": {
           "direction": "output",
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 51 ]
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ]
         },
         "ss0": {
           "direction": "output",
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 52 ]
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ]
         },
         "left": {
           "direction": "output",
@@ -9692,11 +9692,11 @@
         },
         "red": {
           "direction": "output",
-          "bits": [ 53 ]
+          "bits": [ 24 ]
         },
         "green": {
           "direction": "output",
-          "bits": [ 54 ]
+          "bits": [ 25 ]
         },
         "blue": {
           "direction": "output",
@@ -9704,11 +9704,11 @@
         },
         "Rx": {
           "direction": "input",
-          "bits": [ 55 ]
+          "bits": [ 26 ]
         },
         "Tx": {
           "direction": "output",
-          "bits": [ 56 ]
+          "bits": [ 27 ]
         },
         "CTSn": {
           "direction": "output",
@@ -9741,8 +9741,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 57 ],
-            "O": [ 56 ]
+            "I3": [ 28 ],
+            "O": [ 27 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q": {
@@ -9762,11 +9762,11 @@
             "S": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 59 ],
-            "E": [ 60 ],
-            "Q": [ 57 ],
-            "S": [ 61 ]
+            "C": [ 29 ],
+            "D": [ 30 ],
+            "E": [ 31 ],
+            "Q": [ 28 ],
+            "S": [ 32 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O": {
@@ -9789,16 +9789,16 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 62 ],
-            "I3": [ 63 ],
-            "O": [ 59 ]
+            "I2": [ 33 ],
+            "I3": [ 34 ],
+            "O": [ 30 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_I2": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_I3": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0011111100000000"
+            "LUT_INIT": "1100111111111111"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
@@ -9813,60 +9813,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 64 ],
-            "I2": [ 62 ],
-            "I3": [ 65 ],
-            "O": [ 66 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_I2_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000111100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 62 ],
-            "I3": [ 65 ],
-            "O": [ 67 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_I3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000111100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 64 ],
-            "I3": [ 62 ],
-            "O": [ 61 ]
+            "I1": [ 35 ],
+            "I2": [ 36 ],
+            "I3": [ 33 ],
+            "O": [ 37 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_O": {
@@ -9888,21 +9838,21 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 68 ],
-            "I2": [ 69 ],
-            "I3": [ 70 ],
-            "O": [ 62 ]
+            "I1": [ 38 ],
+            "I2": [ 39 ],
+            "I3": [ 40 ],
+            "O": [ 33 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0000111100000000"
+            "LUT_INIT": "1100111100000000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
           },
           "port_directions": {
             "I0": "input",
@@ -9913,10 +9863,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 61 ],
-            "I3": [ 65 ],
-            "O": [ 60 ]
+            "I1": [ 35 ],
+            "I2": [ 33 ],
+            "I3": [ 36 ],
+            "O": [ 31 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO": {
@@ -9934,10 +9884,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 71 ],
-            "CO": [ 65 ],
+            "CI": [ 41 ],
+            "CO": [ 36 ],
             "I0": [ "0" ],
-            "I1": [ 72 ]
+            "I1": [ 42 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO": {
@@ -9955,10 +9905,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 73 ],
-            "CO": [ 74 ],
+            "CI": [ 43 ],
+            "CO": [ 44 ],
             "I0": [ "0" ],
-            "I1": [ 75 ]
+            "I1": [ 45 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_1": {
@@ -9976,10 +9926,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 76 ],
-            "CO": [ 73 ],
+            "CI": [ 46 ],
+            "CO": [ 43 ],
             "I0": [ "0" ],
-            "I1": [ 77 ]
+            "I1": [ 47 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_10": {
@@ -9997,10 +9947,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 78 ],
-            "CO": [ 79 ],
+            "CI": [ 48 ],
+            "CO": [ 49 ],
             "I0": [ "0" ],
-            "I1": [ 80 ]
+            "I1": [ 50 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_11": {
@@ -10018,10 +9968,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 81 ],
-            "CO": [ 78 ],
+            "CI": [ 51 ],
+            "CO": [ 48 ],
             "I0": [ "0" ],
-            "I1": [ 82 ]
+            "I1": [ 52 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_12": {
@@ -10039,10 +9989,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 83 ],
-            "CO": [ 81 ],
+            "CI": [ 53 ],
+            "CO": [ 51 ],
             "I0": [ "0" ],
-            "I1": [ 84 ]
+            "I1": [ 54 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_13": {
@@ -10060,10 +10010,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 85 ],
-            "CO": [ 83 ],
+            "CI": [ 55 ],
+            "CO": [ 53 ],
             "I0": [ "0" ],
-            "I1": [ 86 ]
+            "I1": [ 56 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_14": {
@@ -10081,10 +10031,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 87 ],
-            "CO": [ 85 ],
+            "CI": [ 57 ],
+            "CO": [ 55 ],
             "I0": [ "0" ],
-            "I1": [ 88 ]
+            "I1": [ 58 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_15": {
@@ -10102,10 +10052,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 89 ],
-            "CO": [ 87 ],
+            "CI": [ 59 ],
+            "CO": [ 57 ],
             "I0": [ "0" ],
-            "I1": [ 90 ]
+            "I1": [ 60 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_16": {
@@ -10123,10 +10073,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 74 ],
-            "CO": [ 89 ],
+            "CI": [ 44 ],
+            "CO": [ 59 ],
             "I0": [ "0" ],
-            "I1": [ 91 ]
+            "I1": [ 61 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_2": {
@@ -10144,10 +10094,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 92 ],
-            "CO": [ 76 ],
+            "CI": [ 62 ],
+            "CO": [ 46 ],
             "I0": [ "0" ],
-            "I1": [ 93 ]
+            "I1": [ 63 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_3": {
@@ -10165,10 +10115,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 94 ],
-            "CO": [ 92 ],
+            "CI": [ 64 ],
+            "CO": [ 62 ],
             "I0": [ "0" ],
-            "I1": [ 95 ]
+            "I1": [ 65 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_4": {
@@ -10186,10 +10136,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 96 ],
-            "CO": [ 94 ],
+            "CI": [ 66 ],
+            "CO": [ 64 ],
             "I0": [ "0" ],
-            "I1": [ 97 ]
+            "I1": [ 67 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_5": {
@@ -10207,10 +10157,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 98 ],
-            "CO": [ 96 ],
+            "CI": [ 68 ],
+            "CO": [ 66 ],
             "I0": [ "0" ],
-            "I1": [ 99 ]
+            "I1": [ 69 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_6": {
@@ -10228,10 +10178,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 100 ],
-            "CO": [ 98 ],
+            "CI": [ 70 ],
+            "CO": [ 68 ],
             "I0": [ "0" ],
-            "I1": [ 101 ]
+            "I1": [ 71 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_7": {
@@ -10249,10 +10199,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 102 ],
-            "CO": [ 100 ],
+            "CI": [ 72 ],
+            "CO": [ 70 ],
             "I0": [ "0" ],
-            "I1": [ 103 ]
+            "I1": [ 73 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_8": {
@@ -10270,10 +10220,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 104 ],
-            "CO": [ 102 ],
+            "CI": [ 74 ],
+            "CO": [ 72 ],
             "I0": [ "0" ],
-            "I1": [ 105 ]
+            "I1": [ 75 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_9": {
@@ -10291,10 +10241,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 79 ],
-            "CO": [ 71 ],
+            "CI": [ 49 ],
+            "CO": [ 41 ],
             "I0": [ "0" ],
-            "I1": [ 106 ]
+            "I1": [ 76 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O": {
@@ -10318,8 +10268,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 107 ],
-            "O": [ 106 ]
+            "I3": [ 77 ],
+            "O": [ 50 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_1": {
@@ -10343,8 +10293,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 108 ],
-            "O": [ 80 ]
+            "I3": [ 78 ],
+            "O": [ 52 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_10": {
@@ -10368,8 +10318,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 109 ],
-            "O": [ 86 ]
+            "I3": [ 79 ],
+            "O": [ 73 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_11": {
@@ -10393,8 +10343,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 110 ],
-            "O": [ 90 ]
+            "I3": [ 80 ],
+            "O": [ 75 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_12": {
@@ -10418,8 +10368,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 111 ],
-            "O": [ 91 ]
+            "I3": [ 81 ],
+            "O": [ 74 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_13": {
@@ -10443,8 +10393,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 112 ],
-            "O": [ 75 ]
+            "I3": [ 82 ],
+            "O": [ 65 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_14": {
@@ -10468,8 +10418,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 113 ],
-            "O": [ 77 ]
+            "I3": [ 83 ],
+            "O": [ 45 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_15": {
@@ -10493,8 +10443,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 114 ],
-            "O": [ 99 ]
+            "I3": [ 84 ],
+            "O": [ 58 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_16": {
@@ -10518,8 +10468,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 115 ],
-            "O": [ 101 ]
+            "I3": [ 85 ],
+            "O": [ 56 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_17": {
@@ -10543,8 +10493,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 116 ],
-            "O": [ 103 ]
+            "I3": [ 86 ],
+            "O": [ 76 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_18": {
@@ -10568,8 +10518,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 117 ],
-            "O": [ 105 ]
+            "I3": [ 87 ],
+            "O": [ 42 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_2": {
@@ -10593,8 +10543,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 118 ],
-            "O": [ 82 ]
+            "I3": [ 88 ],
+            "O": [ 54 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_3": {
@@ -10618,8 +10568,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 119 ],
-            "O": [ 84 ]
+            "I3": [ 89 ],
+            "O": [ 60 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_4": {
@@ -10643,8 +10593,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 120 ],
-            "O": [ 88 ]
+            "I3": [ 90 ],
+            "O": [ 61 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_5": {
@@ -10668,8 +10618,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 121 ],
-            "O": [ 93 ]
+            "I3": [ 91 ],
+            "O": [ 47 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_6": {
@@ -10693,8 +10643,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 122 ],
-            "O": [ 95 ]
+            "I3": [ 92 ],
+            "O": [ 63 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_7": {
@@ -10718,8 +10668,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 123 ],
-            "O": [ 97 ]
+            "I3": [ 93 ],
+            "O": [ 67 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_8": {
@@ -10743,8 +10693,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 124 ],
-            "O": [ 104 ]
+            "I3": [ 94 ],
+            "O": [ 69 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_9": {
@@ -10768,15 +10718,15 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 125 ],
-            "O": [ 72 ]
+            "I3": [ 95 ],
+            "O": [ 71 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_S_SB_LUT4_I2": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_S_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0000111111111111"
+            "LUT_INIT": "0000111100000000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
@@ -10792,16 +10742,16 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 61 ],
-            "I3": [ 65 ],
-            "O": [ 126 ]
+            "I2": [ 35 ],
+            "I3": [ 33 ],
+            "O": [ 32 ]
           }
         },
         "green_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1110111111111111"
+            "LUT_INIT": "0000000000011111"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
@@ -10817,9 +10767,9 @@
           "connections": {
             "I0": [ 4 ],
             "I1": [ 3 ],
-            "I2": [ 127 ],
-            "I3": [ 128 ],
-            "O": [ 54 ]
+            "I2": [ 5 ],
+            "I3": [ 6 ],
+            "O": [ 25 ]
           }
         },
         "pll": {
@@ -10850,7 +10800,7 @@
           },
           "connections": {
             "BYPASS": [ "0" ],
-            "PLLOUTCORE": [ 58 ],
+            "PLLOUTCORE": [ 29 ],
             "REFERENCECLK": [ 2 ],
             "RESETB": [ "1" ]
           }
@@ -10859,206 +10809,6 @@
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1110111000001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 129 ],
-            "I1": [ 130 ],
-            "I2": [ 131 ],
-            "I3": [ 12 ],
-            "O": [ 53 ]
-          }
-        },
-        "red_SB_LUT4_O_I0_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111001100000101"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 4 ],
-            "I2": [ 13 ],
-            "I3": [ 132 ],
-            "O": [ 131 ]
-          }
-        },
-        "red_SB_LUT4_O_I0_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000101000001100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 9 ],
-            "I1": [ 5 ],
-            "I2": [ 11 ],
-            "I3": [ 13 ],
-            "O": [ 130 ]
-          }
-        },
-        "red_SB_LUT4_O_I0_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1010110000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 10 ],
-            "I1": [ 6 ],
-            "I2": [ 13 ],
-            "I3": [ 11 ],
-            "O": [ 129 ]
-          }
-        },
-        "red_SB_LUT4_O_I0_SB_LUT4_O_I3_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0011111101010000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 7 ],
-            "I1": [ 8 ],
-            "I2": [ 13 ],
-            "I3": [ 11 ],
-            "O": [ 132 ]
-          }
-        },
-        "ss0_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 133 ],
-            "I2": [ 134 ],
-            "I3": [ 135 ],
-            "O": [ 52 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0110100110010110"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 136 ],
-            "I3": [ 137 ],
-            "O": [ 133 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0110100110010110"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 138 ],
-            "I3": [ 139 ],
-            "O": [ 134 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O_I2_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
             "LUT_INIT": "0000000011111111"
           },
           "attributes": {
@@ -11076,1100 +10826,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 5 ],
-            "O": [ 136 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O_I2_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:12.34-13.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ "0" ],
-            "I3": [ 3 ],
-            "O": [ 139 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O_I2_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:12.34-13.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ "0" ],
-            "I3": [ 4 ],
-            "O": [ 138 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I3_SB_CARRY_CO": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 137 ],
-            "CO": [ 135 ],
-            "I0": [ "0" ],
-            "I1": [ 136 ]
-          }
-        },
-        "ss0_SB_LUT4_O_I3_SB_CARRY_CO_1": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 139 ],
-            "CO": [ 137 ],
-            "I0": [ "0" ],
-            "I1": [ 138 ]
-          }
-        },
-        "ss1_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0100000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 135 ],
-            "I1": [ 133 ],
-            "I2": [ 3 ],
-            "I3": [ 134 ],
-            "O": [ 51 ]
-          }
-        },
-        "ss2_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0001000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 135 ],
-            "I2": [ 133 ],
-            "I3": [ 134 ],
-            "O": [ 50 ]
-          }
-        },
-        "ss3_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0001000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 135 ],
-            "I1": [ 134 ],
-            "I2": [ 3 ],
-            "I3": [ 133 ],
-            "O": [ 49 ]
-          }
-        },
-        "ss4_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 135 ],
-            "I2": [ 134 ],
-            "I3": [ 133 ],
-            "O": [ 48 ]
-          }
-        },
-        "ss5_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0001000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 133 ],
-            "I1": [ 135 ],
-            "I2": [ 3 ],
-            "I3": [ 134 ],
-            "O": [ 47 ]
-          }
-        },
-        "ss5_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1110011111111100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 4 ],
-            "I2": [ 6 ],
-            "I3": [ 5 ],
-            "O": [ 46 ]
-          }
-        },
-        "ss5_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1011111101001101"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 4 ],
-            "I1": [ 5 ],
-            "I2": [ 3 ],
-            "I3": [ 6 ],
-            "O": [ 45 ]
-          }
-        },
-        "ss5_SB_LUT4_O_3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1101110011010101"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 6 ],
-            "I2": [ 4 ],
-            "I3": [ 5 ],
-            "O": [ 44 ]
-          }
-        },
-        "ss5_SB_LUT4_O_4": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0011111011010011"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 6 ],
-            "I1": [ 3 ],
-            "I2": [ 4 ],
-            "I3": [ 5 ],
-            "O": [ 43 ]
-          }
-        },
-        "ss5_SB_LUT4_O_5": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0010111111111011"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 4 ],
-            "I2": [ 6 ],
-            "I3": [ 5 ],
-            "O": [ 42 ]
-          }
-        },
-        "ss5_SB_LUT4_O_6": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0110011100011111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 4 ],
-            "I1": [ 6 ],
-            "I2": [ 5 ],
-            "I3": [ 3 ],
-            "O": [ 41 ]
-          }
-        },
-        "ss5_SB_LUT4_O_7": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1011111001101111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 4 ],
-            "I1": [ 6 ],
-            "I2": [ 3 ],
-            "I3": [ 5 ],
-            "O": [ 40 ]
-          }
-        },
-        "ss6_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 3 ],
-            "I1": [ 133 ],
-            "I2": [ 135 ],
-            "I3": [ 134 ],
-            "O": [ 39 ]
-          }
-        },
-        "ss6_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0100111011101100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 140 ],
-            "I1": [ 141 ],
-            "I2": [ 128 ],
-            "I3": [ 142 ],
-            "O": [ 38 ]
-          }
-        },
-        "ss6_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1100111100001100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 143 ],
-            "I2": [ 127 ],
-            "I3": [ 141 ],
-            "O": [ 37 ]
-          }
-        },
-        "ss6_SB_LUT4_O_3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111111100110000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 143 ],
-            "I2": [ 141 ],
-            "I3": [ 144 ],
-            "O": [ 36 ]
-          }
-        },
-        "ss6_SB_LUT4_O_4": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111000011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 145 ],
-            "I3": [ 33 ],
-            "O": [ 35 ]
-          }
-        },
-        "ss6_SB_LUT4_O_5": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1100111111111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 128 ],
-            "I2": [ 127 ],
-            "I3": [ 141 ],
-            "O": [ 34 ]
-          }
-        },
-        "ss6_SB_LUT4_O_6": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111110011001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 127 ],
-            "I2": [ 143 ],
-            "I3": [ 141 ],
-            "O": [ 33 ]
-          }
-        },
-        "ss6_SB_LUT4_O_7": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1100001111111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 141 ],
-            "I2": [ 127 ],
-            "I3": [ 143 ],
-            "O": [ 32 ]
-          }
-        },
-        "ss7_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 133 ],
-            "I1": [ 135 ],
-            "I2": [ 134 ],
-            "I3": [ 3 ],
-            "O": [ 31 ]
-          }
-        },
-        "ss7_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000010111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 9 ],
-            "I1": [ 142 ],
-            "I2": [ 128 ],
-            "I3": [ 10 ],
-            "O": [ 30 ]
-          }
-        },
-        "ss7_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111111100001011"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 9 ],
-            "I1": [ 142 ],
-            "I2": [ 10 ],
-            "I3": [ 144 ],
-            "O": [ 29 ]
-          }
-        },
-        "ss7_SB_LUT4_O_3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111111111110000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 144 ],
-            "I3": [ 146 ],
-            "O": [ 28 ]
-          }
-        },
-        "ss7_SB_LUT4_O_3_I2_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0011000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 147 ],
-            "I2": [ 128 ],
-            "I3": [ 142 ],
-            "O": [ 144 ]
-          }
-        },
-        "ss7_SB_LUT4_O_4": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111000011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 145 ],
             "I3": [ 25 ],
-            "O": [ 27 ]
-          }
-        },
-        "ss7_SB_LUT4_O_4_I2_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0011111100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 148 ],
-            "I2": [ 147 ],
-            "I3": [ 127 ],
-            "O": [ 145 ]
-          }
-        },
-        "ss7_SB_LUT4_O_4_I2_SB_LUT4_O_I1_SB_LUT4_I3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000001001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 10 ],
-            "I1": [ 9 ],
-            "I2": [ 147 ],
-            "I3": [ 148 ],
-            "O": [ 146 ]
-          }
-        },
-        "ss7_SB_LUT4_O_4_I2_SB_LUT4_O_I1_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111001100000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 142 ],
-            "I2": [ 128 ],
-            "I3": [ 140 ],
-            "O": [ 148 ]
-          }
-        },
-        "ss7_SB_LUT4_O_5": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111110011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 147 ],
-            "I2": [ 128 ],
-            "I3": [ 127 ],
-            "O": [ 26 ]
-          }
-        },
-        "ss7_SB_LUT4_O_6": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111111100001011"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 142 ],
-            "I1": [ 147 ],
-            "I2": [ 9 ],
-            "I3": [ 10 ],
-            "O": [ 25 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0111110011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 128 ],
-            "I1": [ 147 ],
-            "I2": [ 142 ],
-            "I3": [ 140 ],
             "O": [ 24 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111111111111100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 149 ],
-            "I2": [ 8 ],
-            "I3": [ 10 ],
-            "O": [ 147 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000000001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 6 ],
-            "I3": [ 5 ],
-            "O": [ 128 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0_SB_LUT4_O_2": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000000001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 7 ],
-            "I3": [ 8 ],
-            "O": [ 142 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0_SB_LUT4_O_I1_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000011110100"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 5 ],
-            "I1": [ 4 ],
-            "I2": [ 6 ],
-            "I3": [ 7 ],
-            "O": [ 149 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3_SB_LUT4_I3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 128 ],
-            "I3": [ 140 ],
-            "O": [ 143 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3_SB_LUT4_I3_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1111000000000000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 142 ],
-            "I3": [ 140 ],
-            "O": [ 127 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3_SB_LUT4_I3_O_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000000000001"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 4 ],
-            "I1": [ 6 ],
-            "I2": [ 8 ],
-            "I3": [ 10 ],
-            "O": [ 141 ]
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000000001111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 9 ],
-            "I3": [ 10 ],
-            "O": [ 140 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q": {
@@ -12189,11 +10847,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 150 ],
-            "E": [ 60 ],
-            "Q": [ 69 ],
-            "R": [ 61 ]
+            "C": [ 29 ],
+            "D": [ 96 ],
+            "E": [ 31 ],
+            "Q": [ 39 ],
+            "R": [ 32 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_1": {
@@ -12213,11 +10871,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 151 ],
-            "E": [ 60 ],
-            "Q": [ 68 ],
-            "R": [ 61 ]
+            "C": [ 29 ],
+            "D": [ 97 ],
+            "E": [ 31 ],
+            "Q": [ 38 ],
+            "R": [ 32 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O": {
@@ -12239,10 +10897,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 70 ],
+            "I1": [ 40 ],
             "I2": [ "1" ],
-            "I3": [ 152 ],
-            "O": [ 153 ]
+            "I3": [ 98 ],
+            "O": [ 99 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_1": {
@@ -12264,10 +10922,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 69 ],
+            "I1": [ 39 ],
             "I2": [ "1" ],
-            "I3": [ 154 ],
-            "O": [ 150 ]
+            "I3": [ 100 ],
+            "O": [ 96 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_2": {
@@ -12289,10 +10947,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 68 ],
+            "I1": [ 38 ],
             "I2": [ "1" ],
-            "I3": [ 64 ],
-            "O": [ 151 ]
+            "I3": [ 35 ],
+            "O": [ 97 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_3": {
@@ -12316,8 +10974,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 64 ],
-            "O": [ 155 ]
+            "I3": [ 35 ],
+            "O": [ 101 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO": {
@@ -12335,9 +10993,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 154 ],
-            "CO": [ 152 ],
-            "I0": [ 69 ],
+            "CI": [ 100 ],
+            "CO": [ 98 ],
+            "I0": [ 39 ],
             "I1": [ "1" ]
           }
         },
@@ -12356,9 +11014,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 64 ],
-            "CO": [ 154 ],
-            "I0": [ 68 ],
+            "CI": [ 35 ],
+            "CO": [ 100 ],
+            "I0": [ 38 ],
             "I1": [ "1" ]
           }
         },
@@ -12379,11 +11037,11 @@
             "S": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 153 ],
-            "E": [ 60 ],
-            "Q": [ 70 ],
-            "S": [ 61 ]
+            "C": [ 29 ],
+            "D": [ 99 ],
+            "E": [ 31 ],
+            "Q": [ 40 ],
+            "S": [ 32 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESS_Q_1": {
@@ -12403,11 +11061,11 @@
             "S": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 155 ],
-            "E": [ 60 ],
-            "Q": [ 64 ],
-            "S": [ 61 ]
+            "C": [ 29 ],
+            "D": [ 101 ],
+            "E": [ 31 ],
+            "Q": [ 35 ],
+            "S": [ 32 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFESS_Q": {
@@ -12427,11 +11085,11 @@
             "S": "input"
           },
           "connections": {
-            "C": [ 58 ],
+            "C": [ 29 ],
             "D": [ "0" ],
-            "E": [ 67 ],
-            "Q": [ 156 ],
-            "S": [ 61 ]
+            "E": [ 102 ],
+            "Q": [ 103 ],
+            "S": [ 32 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q": {
@@ -12450,10 +11108,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 156 ],
-            "E": [ 67 ],
-            "Q": [ 157 ]
+            "C": [ 29 ],
+            "D": [ 103 ],
+            "E": [ 102 ],
+            "Q": [ 104 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_1": {
@@ -12472,10 +11130,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 157 ],
-            "E": [ 67 ],
-            "Q": [ 158 ]
+            "C": [ 29 ],
+            "D": [ 104 ],
+            "E": [ 102 ],
+            "Q": [ 105 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_2": {
@@ -12494,10 +11152,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 158 ],
-            "E": [ 67 ],
-            "Q": [ 159 ]
+            "C": [ 29 ],
+            "D": [ 105 ],
+            "E": [ 102 ],
+            "Q": [ 106 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_3": {
@@ -12516,10 +11174,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 159 ],
-            "E": [ 67 ],
-            "Q": [ 160 ]
+            "C": [ 29 ],
+            "D": [ 106 ],
+            "E": [ 102 ],
+            "Q": [ 107 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_4": {
@@ -12538,10 +11196,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 160 ],
-            "E": [ 67 ],
-            "Q": [ 161 ]
+            "C": [ 29 ],
+            "D": [ 107 ],
+            "E": [ 102 ],
+            "Q": [ 108 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_5": {
@@ -12560,10 +11218,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 161 ],
-            "E": [ 67 ],
-            "Q": [ 162 ]
+            "C": [ 29 ],
+            "D": [ 108 ],
+            "E": [ 102 ],
+            "Q": [ 109 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_6": {
@@ -12582,10 +11240,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 162 ],
-            "E": [ 67 ],
-            "Q": [ 163 ]
+            "C": [ 29 ],
+            "D": [ 109 ],
+            "E": [ 102 ],
+            "Q": [ 110 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_7": {
@@ -12604,10 +11262,392 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 163 ],
-            "E": [ 67 ],
-            "Q": [ 63 ]
+            "C": [ 29 ],
+            "D": [ 110 ],
+            "E": [ 102 ],
+            "Q": [ 34 ]
+          }
+        },
+        "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_E_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0000111100000000"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:17.34-18.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ "0" ],
+            "I2": [ 33 ],
+            "I3": [ 36 ],
+            "O": [ 102 ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_CI": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 81 ],
+            "CO": [ 111 ],
+            "I0": [ 80 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 112 ],
+            "CO": [ 113 ],
+            "I0": [ 83 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_1": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 114 ],
+            "CO": [ 112 ],
+            "I0": [ 91 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_10": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 115 ],
+            "CO": [ 116 ],
+            "I0": [ 78 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_11": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 117 ],
+            "CO": [ 115 ],
+            "I0": [ 88 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_12": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 118 ],
+            "CO": [ 117 ],
+            "I0": [ 85 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_13": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 119 ],
+            "CO": [ 118 ],
+            "I0": [ 84 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_14": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 120 ],
+            "CO": [ 119 ],
+            "I0": [ 89 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_15": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 113 ],
+            "CO": [ 120 ],
+            "I0": [ 90 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_2": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 121 ],
+            "CO": [ 114 ],
+            "I0": [ 92 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_3": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 122 ],
+            "CO": [ 121 ],
+            "I0": [ 82 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_4": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 123 ],
+            "CO": [ 122 ],
+            "I0": [ 93 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_5": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 124 ],
+            "CO": [ 123 ],
+            "I0": [ 94 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_6": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 125 ],
+            "CO": [ 124 ],
+            "I0": [ 95 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_7": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 111 ],
+            "CO": [ 125 ],
+            "I0": [ 79 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_8": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 126 ],
+            "CO": [ 127 ],
+            "I0": [ 86 ],
+            "I1": [ "1" ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_I0_9": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 116 ],
+            "CO": [ 126 ],
+            "I0": [ 77 ],
+            "I1": [ "1" ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q": {
@@ -12627,11 +11667,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 164 ],
-            "E": [ 126 ],
-            "Q": [ 125 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 128 ],
+            "E": [ 37 ],
+            "Q": [ 87 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_1": {
@@ -12651,11 +11691,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 165 ],
-            "E": [ 126 ],
-            "Q": [ 107 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 129 ],
+            "E": [ 37 ],
+            "Q": [ 86 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_10": {
@@ -12675,11 +11715,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 166 ],
-            "E": [ 126 ],
-            "Q": [ 113 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 130 ],
+            "E": [ 37 ],
+            "Q": [ 91 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_11": {
@@ -12699,11 +11739,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 167 ],
-            "E": [ 126 ],
-            "Q": [ 121 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 131 ],
+            "E": [ 37 ],
+            "Q": [ 92 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_12": {
@@ -12723,11 +11763,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 168 ],
-            "E": [ 126 ],
-            "Q": [ 122 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 132 ],
+            "E": [ 37 ],
+            "Q": [ 82 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_2": {
@@ -12747,11 +11787,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 169 ],
-            "E": [ 126 ],
-            "Q": [ 108 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 133 ],
+            "E": [ 37 ],
+            "Q": [ 77 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_3": {
@@ -12771,11 +11811,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 170 ],
-            "E": [ 126 ],
-            "Q": [ 118 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 134 ],
+            "E": [ 37 ],
+            "Q": [ 78 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_4": {
@@ -12795,11 +11835,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 171 ],
-            "E": [ 126 ],
-            "Q": [ 119 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 135 ],
+            "E": [ 37 ],
+            "Q": [ 88 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_5": {
@@ -12819,11 +11859,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 172 ],
-            "E": [ 126 ],
-            "Q": [ 109 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 136 ],
+            "E": [ 37 ],
+            "Q": [ 85 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_6": {
@@ -12843,11 +11883,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 173 ],
-            "E": [ 126 ],
-            "Q": [ 120 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 137 ],
+            "E": [ 37 ],
+            "Q": [ 84 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_7": {
@@ -12867,11 +11907,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 174 ],
-            "E": [ 126 ],
-            "Q": [ 110 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 138 ],
+            "E": [ 37 ],
+            "Q": [ 89 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_8": {
@@ -12891,11 +11931,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 175 ],
-            "E": [ 126 ],
-            "Q": [ 111 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 139 ],
+            "E": [ 37 ],
+            "Q": [ 90 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_9": {
@@ -12915,11 +11955,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 176 ],
-            "E": [ 126 ],
-            "Q": [ 112 ],
-            "R": [ 65 ]
+            "C": [ 29 ],
+            "D": [ 140 ],
+            "E": [ 37 ],
+            "Q": [ 83 ],
+            "R": [ 36 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O": {
@@ -12941,10 +11981,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 112 ],
+            "I1": [ 83 ],
             "I2": [ "1" ],
-            "I3": [ 177 ],
-            "O": [ 176 ]
+            "I3": [ 112 ],
+            "O": [ 140 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_1": {
@@ -12966,10 +12006,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 113 ],
+            "I1": [ 91 ],
             "I2": [ "1" ],
-            "I3": [ 178 ],
-            "O": [ 166 ]
+            "I3": [ 114 ],
+            "O": [ 130 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_10": {
@@ -12991,10 +12031,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 107 ],
+            "I1": [ 86 ],
             "I2": [ "1" ],
-            "I3": [ 179 ],
-            "O": [ 165 ]
+            "I3": [ 126 ],
+            "O": [ 129 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_11": {
@@ -13016,10 +12056,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 108 ],
+            "I1": [ 77 ],
             "I2": [ "1" ],
-            "I3": [ 180 ],
-            "O": [ 169 ]
+            "I3": [ 116 ],
+            "O": [ 133 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_12": {
@@ -13041,10 +12081,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 118 ],
+            "I1": [ 78 ],
             "I2": [ "1" ],
-            "I3": [ 181 ],
-            "O": [ 170 ]
+            "I3": [ 115 ],
+            "O": [ 134 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_13": {
@@ -13066,10 +12106,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 119 ],
+            "I1": [ 88 ],
             "I2": [ "1" ],
-            "I3": [ 182 ],
-            "O": [ 171 ]
+            "I3": [ 117 ],
+            "O": [ 135 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_14": {
@@ -13091,10 +12131,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 109 ],
+            "I1": [ 85 ],
             "I2": [ "1" ],
-            "I3": [ 183 ],
-            "O": [ 172 ]
+            "I3": [ 118 ],
+            "O": [ 136 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_15": {
@@ -13116,10 +12156,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 120 ],
+            "I1": [ 84 ],
             "I2": [ "1" ],
-            "I3": [ 184 ],
-            "O": [ 173 ]
+            "I3": [ 119 ],
+            "O": [ 137 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_16": {
@@ -13141,10 +12181,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 110 ],
+            "I1": [ 89 ],
             "I2": [ "1" ],
-            "I3": [ 185 ],
-            "O": [ 174 ]
+            "I3": [ 120 ],
+            "O": [ 138 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_17": {
@@ -13166,10 +12206,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 111 ],
+            "I1": [ 90 ],
             "I2": [ "1" ],
-            "I3": [ 186 ],
-            "O": [ 175 ]
+            "I3": [ 113 ],
+            "O": [ 139 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_2": {
@@ -13191,10 +12231,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 121 ],
+            "I1": [ 92 ],
             "I2": [ "1" ],
-            "I3": [ 187 ],
-            "O": [ 167 ]
+            "I3": [ 121 ],
+            "O": [ 131 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_3": {
@@ -13216,10 +12256,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 122 ],
+            "I1": [ 82 ],
             "I2": [ "1" ],
-            "I3": [ 188 ],
-            "O": [ 168 ]
+            "I3": [ 122 ],
+            "O": [ 132 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_4": {
@@ -13241,10 +12281,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 123 ],
+            "I1": [ 93 ],
             "I2": [ "1" ],
-            "I3": [ 189 ],
-            "O": [ 190 ]
+            "I3": [ 123 ],
+            "O": [ 141 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_5": {
@@ -13266,10 +12306,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 114 ],
+            "I1": [ 94 ],
             "I2": [ "1" ],
-            "I3": [ 191 ],
-            "O": [ 192 ]
+            "I3": [ 124 ],
+            "O": [ 142 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_6": {
@@ -13291,10 +12331,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 115 ],
+            "I1": [ 95 ],
             "I2": [ "1" ],
-            "I3": [ 193 ],
-            "O": [ 194 ]
+            "I3": [ 125 ],
+            "O": [ 143 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_7": {
@@ -13316,10 +12356,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 116 ],
+            "I1": [ 79 ],
             "I2": [ "1" ],
-            "I3": [ 195 ],
-            "O": [ 196 ]
+            "I3": [ 111 ],
+            "O": [ 144 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_8": {
@@ -13341,10 +12381,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 117 ],
+            "I1": [ 80 ],
             "I2": [ "1" ],
-            "I3": [ 124 ],
-            "O": [ 197 ]
+            "I3": [ 81 ],
+            "O": [ 145 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_9": {
@@ -13366,367 +12406,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 125 ],
+            "I1": [ 87 ],
             "I2": [ "1" ],
-            "I3": [ 198 ],
-            "O": [ 164 ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 177 ],
-            "CO": [ 186 ],
-            "I0": [ 112 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_1": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 178 ],
-            "CO": [ 177 ],
-            "I0": [ 113 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_10": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 180 ],
-            "CO": [ 179 ],
-            "I0": [ 108 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_11": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 181 ],
-            "CO": [ 180 ],
-            "I0": [ 118 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_12": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 182 ],
-            "CO": [ 181 ],
-            "I0": [ 119 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_13": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 183 ],
-            "CO": [ 182 ],
-            "I0": [ 109 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_14": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 184 ],
-            "CO": [ 183 ],
-            "I0": [ 120 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_15": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 185 ],
-            "CO": [ 184 ],
-            "I0": [ 110 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_16": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 186 ],
-            "CO": [ 185 ],
-            "I0": [ 111 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_2": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 187 ],
-            "CO": [ 178 ],
-            "I0": [ 121 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_3": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 188 ],
-            "CO": [ 187 ],
-            "I0": [ 122 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_4": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 189 ],
-            "CO": [ 188 ],
-            "I0": [ 123 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_5": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 191 ],
-            "CO": [ 189 ],
-            "I0": [ 114 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_6": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 193 ],
-            "CO": [ 191 ],
-            "I0": [ 115 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_7": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 195 ],
-            "CO": [ 193 ],
-            "I0": [ 116 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_8": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 124 ],
-            "CO": [ 195 ],
-            "I0": [ 117 ],
-            "I1": [ "1" ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3_SB_CARRY_CO_9": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 179 ],
-            "CO": [ 198 ],
-            "I0": [ 107 ],
-            "I1": [ "1" ]
+            "I3": [ 127 ],
+            "O": [ 128 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q": {
@@ -13745,10 +12428,10 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 199 ],
-            "E": [ 126 ],
-            "Q": [ 123 ]
+            "C": [ 29 ],
+            "D": [ 146 ],
+            "E": [ 37 ],
+            "Q": [ 93 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1": {
@@ -13767,21 +12450,21 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 200 ],
-            "E": [ 126 ],
-            "Q": [ 114 ]
+            "C": [ 29 ],
+            "D": [ 147 ],
+            "E": [ 37 ],
+            "Q": [ 94 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1111111100110000"
+            "LUT_INIT": "0111011111110000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -13791,11 +12474,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 65 ],
-            "I2": [ 192 ],
-            "I3": [ 66 ],
-            "O": [ 200 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 142 ],
+            "I3": [ 36 ],
+            "O": [ 147 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2": {
@@ -13814,21 +12497,21 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 201 ],
-            "E": [ 126 ],
-            "Q": [ 115 ]
+            "C": [ 29 ],
+            "D": [ 148 ],
+            "E": [ 37 ],
+            "Q": [ 95 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1111111100110000"
+            "LUT_INIT": "0111011111110000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -13838,11 +12521,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 65 ],
-            "I2": [ 194 ],
-            "I3": [ 66 ],
-            "O": [ 201 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 143 ],
+            "I3": [ 36 ],
+            "O": [ 148 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3": {
@@ -13861,21 +12544,21 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 202 ],
-            "E": [ 126 ],
-            "Q": [ 116 ]
+            "C": [ 29 ],
+            "D": [ 149 ],
+            "E": [ 37 ],
+            "Q": [ 79 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1111111100110000"
+            "LUT_INIT": "0111011111110000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -13885,11 +12568,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 65 ],
-            "I2": [ 196 ],
-            "I3": [ 66 ],
-            "O": [ 202 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 144 ],
+            "I3": [ 36 ],
+            "O": [ 149 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4": {
@@ -13908,21 +12591,21 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 203 ],
-            "E": [ 126 ],
-            "Q": [ 117 ]
+            "C": [ 29 ],
+            "D": [ 150 ],
+            "E": [ 37 ],
+            "Q": [ 80 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1111111100110000"
+            "LUT_INIT": "0111011111110000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -13932,11 +12615,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 65 ],
-            "I2": [ 197 ],
-            "I3": [ 66 ],
-            "O": [ 203 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 145 ],
+            "I3": [ 36 ],
+            "O": [ 150 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5": {
@@ -13955,21 +12638,21 @@
             "Q": "output"
           },
           "connections": {
-            "C": [ 58 ],
-            "D": [ 204 ],
-            "E": [ 126 ],
-            "Q": [ 124 ]
+            "C": [ 29 ],
+            "D": [ 151 ],
+            "E": [ 37 ],
+            "Q": [ 81 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "1111111100000011"
+            "LUT_INIT": "0111011100001111"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -13979,22 +12662,22 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 65 ],
-            "I2": [ 124 ],
-            "I3": [ 66 ],
-            "O": [ 204 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 81 ],
+            "I3": [ 36 ],
+            "O": [ 151 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0000000011111100"
+            "LUT_INIT": "1000100011110000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -14004,11 +12687,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ "0" ],
-            "I1": [ 190 ],
-            "I2": [ 65 ],
-            "I3": [ 66 ],
-            "O": [ 199 ]
+            "I0": [ 35 ],
+            "I1": [ 33 ],
+            "I2": [ 141 ],
+            "I3": [ 36 ],
+            "O": [ 146 ]
           }
         }
       },
@@ -14043,21 +12726,21 @@
         },
         "Rx": {
           "hide_name": 0,
-          "bits": [ 55 ],
+          "bits": [ 26 ],
           "attributes": {
             "src": "ice40hx8k.sv:9.11-9.13"
           }
         },
         "Tx": {
           "hide_name": 0,
-          "bits": [ 56 ],
+          "bits": [ 27 ],
           "attributes": {
             "src": "ice40hx8k.sv:10.12-10.14"
           }
         },
         "Tx_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ 57 ],
+          "bits": [ 28 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
@@ -14065,13 +12748,13 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D": {
           "hide_name": 0,
-          "bits": [ 59 ],
+          "bits": [ 30 ],
           "attributes": {
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2": {
           "hide_name": 0,
-          "bits": [ 64, 62 ],
+          "bits": [ 35, 33, 36 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
@@ -14079,13 +12762,13 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E": {
           "hide_name": 0,
-          "bits": [ 60 ],
+          "bits": [ 31 ],
           "attributes": {
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ 104, 102, 100, 98, 96, 94, 92, 76, 73, 74, 89, 87, 85, 83, 81, 78, 79, 71, 65 ],
+          "bits": [ 74, 72, 70, 68, 66, 64, 62, 46, 43, 44, 59, 57, 55, 53, 51, 48, 49, 41, 36 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:37.23-37.25"
@@ -14093,7 +12776,7 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI": {
           "hide_name": 0,
-          "bits": [ "1", 104, 102, 100, 98, 96, 94, 92, 76, 73, 74, 89, 87, 85, 83, 81, 78, 79, 71 ],
+          "bits": [ "1", 74, 72, 70, 68, 66, 64, 62, 46, 43, 44, 59, 57, 55, 53, 51, 48, 49, 41 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -14101,7 +12784,7 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1": {
           "hide_name": 0,
-          "bits": [ 104, 105, 103, 101, 99, 97, 95, 93, 77, 75, 91, 90, 88, 86, 84, 82, 80, 106, 72 ],
+          "bits": [ 74, 75, 73, 71, 69, 67, 65, 63, 47, 45, 61, 60, 58, 56, 54, 52, 50, 76, 42 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:49.21-49.23"
@@ -14109,15 +12792,7 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_S": {
           "hide_name": 0,
-          "bits": [ 61, 65 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_S_SB_LUT4_I2_O": {
-          "hide_name": 0,
-          "bits": [ 126 ],
+          "bits": [ 32 ],
           "attributes": {
           }
         },
@@ -14130,7 +12805,7 @@
         },
         "green": {
           "hide_name": 0,
-          "bits": [ 54 ],
+          "bits": [ 25 ],
           "attributes": {
             "src": "ice40hx8k.sv:8.16-8.21"
           }
@@ -14158,25 +12833,9 @@
         },
         "red": {
           "hide_name": 0,
-          "bits": [ 53 ],
+          "bits": [ 24 ],
           "attributes": {
             "src": "ice40hx8k.sv:8.12-8.15"
-          }
-        },
-        "red_SB_LUT4_O_I0": {
-          "hide_name": 0,
-          "bits": [ 129, 130, 131, 12 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "red_SB_LUT4_O_I0_SB_LUT4_O_I3": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 13, 132 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
           }
         },
         "right": {
@@ -14188,146 +12847,65 @@
         },
         "serclk": {
           "hide_name": 0,
-          "bits": [ 58 ],
+          "bits": [ 29 ],
           "attributes": {
             "src": "ice40hx8k.sv:54.10-54.16"
           }
         },
         "ss0": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 52 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.46-6.49"
           }
         },
-        "ss0_SB_LUT4_O_I1": {
-          "hide_name": 0,
-          "bits": [ 3, 134, 133, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205, 205 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27",
-            "unused_bits": "3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
-          }
-        },
-        "ss0_SB_LUT4_O_I1_SB_LUT4_O_I2": {
-          "hide_name": 0,
-          "bits": [ 139, 138, 136, "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:49.21-49.23"
-          }
-        },
-        "ss0_SB_LUT4_O_I3": {
-          "hide_name": 0,
-          "bits": [ "1", 139, 137, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135, 135 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:0.0-0.0|top.sv:26.12-26.93|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
-          }
-        },
         "ss1": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 51 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.42-6.45"
           }
         },
         "ss2": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 50 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.38-6.41"
           }
         },
         "ss3": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 49 ],
+          "bits": [ 24, "0", "0", "0", 24, 24, "0", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.34-6.37"
           }
         },
         "ss4": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 48 ],
+          "bits": [ 24, 24, 24, 24, 24, 24, "0", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.30-6.33"
           }
         },
         "ss5": {
           "hide_name": 0,
-          "bits": [ 40, 41, 42, 43, 44, 45, 46, 47 ],
+          "bits": [ "1", 25, 25, "0", "1", "1", "0", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.26-6.29"
           }
         },
         "ss6": {
           "hide_name": 0,
-          "bits": [ 32, 33, 34, 35, 36, 37, 38, 39 ],
+          "bits": [ 24, 25, 25, 25, "1", "1", "0", "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.22-6.25"
           }
         },
         "ss7": {
           "hide_name": 0,
-          "bits": [ 24, 25, 26, 27, 28, 29, 30, 31 ],
+          "bits": [ "1", "0", "0", 24, "1", "1", 24, "x" ],
           "attributes": {
             "src": "ice40hx8k.sv:6.18-6.21"
-          }
-        },
-        "ss7_SB_LUT4_O_3_I2": {
-          "hide_name": 0,
-          "bits": [ 144, 146 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_4_I2": {
-          "hide_name": 0,
-          "bits": [ 145, 33 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_4_I2_SB_LUT4_O_I1": {
-          "hide_name": 0,
-          "bits": [ 10, 9, 147, 148 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0": {
-          "hide_name": 0,
-          "bits": [ 147, 128, 142 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_7_I0_SB_LUT4_O_I1": {
-          "hide_name": 0,
-          "bits": [ 149, 8, 10 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3": {
-          "hide_name": 0,
-          "bits": [ 142, 128, 140 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
-        "ss7_SB_LUT4_O_7_I3_SB_LUT4_I3_O": {
-          "hide_name": 0,
-          "bits": [ 141, 127, 143 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
           }
         },
         "top_inst.blue": {
@@ -14338,9 +12916,17 @@
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:10.28-10.32"
           }
         },
+        "top_inst.error": {
+          "hide_name": 0,
+          "bits": [ 3, 4, 5, 6 ],
+          "attributes": {
+            "hdlname": "top_inst error",
+            "src": "ice40hx8k.sv:112.9-120.6|top.sv:18.13-18.18"
+          }
+        },
         "top_inst.green": {
           "hide_name": 0,
-          "bits": [ 54 ],
+          "bits": [ 25 ],
           "attributes": {
             "hdlname": "top_inst green",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:10.21-10.26"
@@ -14360,20 +12946,12 @@
           "attributes": {
             "hdlname": "top_inst pb",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:7.23-7.25",
-            "unused_bits": "11 12 13 14 15 16 17 18 19 20"
-          }
-        },
-        "top_inst.pbin": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5, 6, 7, 8, 9, 10 ],
-          "attributes": {
-            "hdlname": "top_inst pbin",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:18.13-18.17"
+            "unused_bits": "4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
           }
         },
         "top_inst.red": {
           "hide_name": 0,
-          "bits": [ 53 ],
+          "bits": [ 24 ],
           "attributes": {
             "hdlname": "top_inst red",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:10.16-10.19"
@@ -14389,7 +12967,7 @@
         },
         "top_inst.ss0": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 52 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "hdlname": "top_inst ss0",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.45-9.48"
@@ -14397,7 +12975,7 @@
         },
         "top_inst.ss1": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 51 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "hdlname": "top_inst ss1",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.40-9.43"
@@ -14405,7 +12983,7 @@
         },
         "top_inst.ss2": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 50 ],
+          "bits": [ "x", "x", "x", "x", "x", "x", "x", "x" ],
           "attributes": {
             "hdlname": "top_inst ss2",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.35-9.38"
@@ -14413,7 +12991,7 @@
         },
         "top_inst.ss3": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 49 ],
+          "bits": [ 24, "0", "0", "0", 24, 24, "0", "x" ],
           "attributes": {
             "hdlname": "top_inst ss3",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.30-9.33"
@@ -14421,7 +12999,7 @@
         },
         "top_inst.ss4": {
           "hide_name": 0,
-          "bits": [ "x", "x", "x", "x", "x", "x", "x", 48 ],
+          "bits": [ 24, 24, 24, 24, 24, 24, "0", "x" ],
           "attributes": {
             "hdlname": "top_inst ss4",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.25-9.28"
@@ -14429,7 +13007,7 @@
         },
         "top_inst.ss5": {
           "hide_name": 0,
-          "bits": [ 40, 41, 42, 43, 44, 45, 46, 47 ],
+          "bits": [ "1", 25, 25, "0", "1", "1", "0", "x" ],
           "attributes": {
             "hdlname": "top_inst ss5",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.20-9.23"
@@ -14437,7 +13015,7 @@
         },
         "top_inst.ss6": {
           "hide_name": 0,
-          "bits": [ 32, 33, 34, 35, 36, 37, 38, 39 ],
+          "bits": [ 24, 25, 25, 25, "1", "1", "0", "x" ],
           "attributes": {
             "hdlname": "top_inst ss6",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.15-9.18"
@@ -14445,10 +13023,18 @@
         },
         "top_inst.ss7": {
           "hide_name": 0,
-          "bits": [ 24, 25, 26, 27, 28, 29, 30, 31 ],
+          "bits": [ "1", "0", "0", 24, "1", "1", 24, "x" ],
           "attributes": {
             "hdlname": "top_inst ss7",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:9.10-9.13"
+          }
+        },
+        "top_inst.status": {
+          "hide_name": 0,
+          "bits": [ 24 ],
+          "attributes": {
+            "hdlname": "top_inst status",
+            "src": "ice40hx8k.sv:112.9-120.6|top.sv:19.7-19.13"
           }
         },
         "top_inst.txclk": {
@@ -14467,528 +13053,6 @@
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:13.22-13.28"
           }
         },
-        "top_inst.u1.I": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5, 6, 7, 8, 9, 10 ],
-          "attributes": {
-            "hdlname": "top_inst u1 I",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:39.21-39.22|top.sv:22.9-22.44"
-          }
-        },
-        "top_inst.u1.S": {
-          "hide_name": 0,
-          "bits": [ 11, 12, 13 ],
-          "attributes": {
-            "hdlname": "top_inst u1 S",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:40.21-40.22|top.sv:22.9-22.44"
-          }
-        },
-        "top_inst.u1.Y": {
-          "hide_name": 0,
-          "bits": [ 53 ],
-          "attributes": {
-            "hdlname": "top_inst u1 Y",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:41.16-41.17|top.sv:22.9-22.44"
-          }
-        },
-        "top_inst.u2.G": {
-          "hide_name": 0,
-          "bits": [ 54 ],
-          "attributes": {
-            "hdlname": "top_inst u2 G",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:90.16-90.17|top.sv:23.9-23.44"
-          }
-        },
-        "top_inst.u2.I": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5, 6, 7, 8, 9, 10 ],
-          "attributes": {
-            "hdlname": "top_inst u2 I",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:88.21-88.22|top.sv:23.9-23.44"
-          }
-        },
-        "top_inst.u3.I": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5, 6, 7, 8, 9, 10 ],
-          "attributes": {
-            "hdlname": "top_inst u3 I",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:51.21-51.22|top.sv:24.13-24.38"
-          }
-        },
-        "top_inst.u4.SEG7[0]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[0]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[10]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[10]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[11]": {
-          "hide_name": 0,
-          "bits": [ "0", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[11]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[12]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[12]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[13]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[13]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[14]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[14]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[15]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[15]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[1]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[1]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[2]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "0", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[2]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[3]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "0", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[3]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[4]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[4]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[5]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[5]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[6]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[6]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[7]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[7]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[8]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[8]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.SEG7[9]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 SEG7[9]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.enable": {
-          "hide_name": 0,
-          "bits": [ "1" ],
-          "attributes": {
-            "hdlname": "top_inst u4 enable",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:107.27-107.33|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u4.in": {
-          "hide_name": 0,
-          "bits": [ 206, 207, 208, "0" ],
-          "attributes": {
-            "hdlname": "top_inst u4 in",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:106.32-106.34|top.sv:30.7-30.57",
-            "unused_bits": "0 1 2"
-          }
-        },
-        "top_inst.u4.out": {
-          "hide_name": 0,
-          "bits": [ 24, 25, 26, 27, 28, 29, 30 ],
-          "attributes": {
-            "hdlname": "top_inst u4 out",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:108.33-108.36|top.sv:30.7-30.57"
-          }
-        },
-        "top_inst.u5.SEG7[0]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[0]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[10]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[10]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[11]": {
-          "hide_name": 0,
-          "bits": [ "0", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[11]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[12]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[12]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[13]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[13]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[14]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[14]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[15]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[15]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[1]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[1]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[2]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "0", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[2]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[3]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "0", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[3]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[4]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[4]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[5]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[5]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[6]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[6]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[7]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[7]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[8]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[8]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.SEG7[9]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 SEG7[9]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.enable": {
-          "hide_name": 0,
-          "bits": [ "1" ],
-          "attributes": {
-            "hdlname": "top_inst u5 enable",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:107.27-107.33|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u5.in": {
-          "hide_name": 0,
-          "bits": [ 209, 210, 211, "0" ],
-          "attributes": {
-            "hdlname": "top_inst u5 in",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:106.32-106.34|top.sv:31.7-31.63",
-            "unused_bits": "0 1 2"
-          }
-        },
-        "top_inst.u5.out": {
-          "hide_name": 0,
-          "bits": [ 32, 33, 34, 35, 36, 37, 38 ],
-          "attributes": {
-            "hdlname": "top_inst u5 out",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:108.33-108.36|top.sv:31.7-31.63"
-          }
-        },
-        "top_inst.u6.in": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5 ],
-          "attributes": {
-            "hdlname": "top_inst u6 in",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:62.21-62.23|top.sv:26.12-26.93"
-          }
-        },
-        "top_inst.u6.out": {
-          "hide_name": 0,
-          "bits": [ 52, 51, 50, 49, 48, 47, 39, 31 ],
-          "attributes": {
-            "hdlname": "top_inst u6 out",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:63.22-63.25|top.sv:26.12-26.93"
-          }
-        },
-        "top_inst.u7.SEG7[0]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[0]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[10]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[10]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[11]": {
-          "hide_name": 0,
-          "bits": [ "0", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[11]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[12]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[12]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[13]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[13]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[14]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[14]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[15]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "0", "0", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[15]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[1]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[1]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[2]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "0", "1", "1", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[2]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[3]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "0", "0", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[3]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[4]": {
-          "hide_name": 0,
-          "bits": [ "0", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[4]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[5]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[5]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[6]": {
-          "hide_name": 0,
-          "bits": [ "1", "0", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[6]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[7]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "0", "0" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[7]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[8]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "1", "1", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[8]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.SEG7[9]": {
-          "hide_name": 0,
-          "bits": [ "1", "1", "1", "0", "0", "1", "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 SEG7[9]",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:110.15-110.19|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.enable": {
-          "hide_name": 0,
-          "bits": [ "1" ],
-          "attributes": {
-            "hdlname": "top_inst u7 enable",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:107.27-107.33|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.in": {
-          "hide_name": 0,
-          "bits": [ 3, 4, 5, 6 ],
-          "attributes": {
-            "hdlname": "top_inst u7 in",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:106.32-106.34|top.sv:32.7-32.51"
-          }
-        },
-        "top_inst.u7.out": {
-          "hide_name": 0,
-          "bits": [ 40, 41, 42, 43, 44, 45, 46 ],
-          "attributes": {
-            "hdlname": "top_inst u7 out",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:108.33-108.36|top.sv:32.7-32.51"
-          }
-        },
         "txclk": {
           "hide_name": 0,
           "bits": [ "x" ],
@@ -15005,7 +13069,7 @@
         },
         "uart_inst.clk": {
           "hide_name": 0,
-          "bits": [ 58 ],
+          "bits": [ 29 ],
           "attributes": {
             "hdlname": "uart_inst clk",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart.v:37.35-37.38"
@@ -15045,7 +13109,7 @@
         },
         "uart_inst.rxd": {
           "hide_name": 0,
-          "bits": [ 55 ],
+          "bits": [ 26 ],
           "attributes": {
             "hdlname": "uart_inst rxd",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart.v:57.35-57.38",
@@ -15054,7 +13118,7 @@
         },
         "uart_inst.txd": {
           "hide_name": 0,
-          "bits": [ 56 ],
+          "bits": [ 27 ],
           "attributes": {
             "hdlname": "uart_inst txd",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart.v:58.35-58.38"
@@ -15062,7 +13126,7 @@
         },
         "uart_inst.uart_rx_inst.clk": {
           "hide_name": 0,
-          "bits": [ 58 ],
+          "bits": [ 29 ],
           "attributes": {
             "hdlname": "uart_inst uart_rx_inst clk",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_rx.v:37.35-37.38|uart/uart.v:96.1-111.2"
@@ -15086,7 +13150,7 @@
         },
         "uart_inst.uart_rx_inst.rxd": {
           "hide_name": 0,
-          "bits": [ 55 ],
+          "bits": [ 26 ],
           "attributes": {
             "hdlname": "uart_inst uart_rx_inst rxd",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_rx.v:50.35-50.38|uart/uart.v:96.1-111.2",
@@ -15095,7 +13159,7 @@
         },
         "uart_inst.uart_tx_inst.bit_cnt": {
           "hide_name": 0,
-          "bits": [ 64, 68, 69, 70 ],
+          "bits": [ 35, 38, 39, 40 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst bit_cnt",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:71.11-71.18|uart/uart.v:78.1-91.2"
@@ -15103,7 +13167,7 @@
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D": {
           "hide_name": 0,
-          "bits": [ 155, 151, 150, 153 ],
+          "bits": [ 101, 97, 96, 99 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:103.28-103.39|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -15111,7 +13175,7 @@
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ "1", 64, 154, 152 ],
+          "bits": [ "1", 35, 100, 98 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:103.28-103.39|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -15119,7 +13183,7 @@
         },
         "uart_inst.uart_tx_inst.clk": {
           "hide_name": 0,
-          "bits": [ 58 ],
+          "bits": [ 29 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst clk",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:37.35-37.38|uart/uart.v:78.1-91.2"
@@ -15127,7 +13191,7 @@
         },
         "uart_inst.uart_tx_inst.data_reg": {
           "hide_name": 0,
-          "bits": [ 63, 163, 162, 161, 160, 159, 158, 157, 156 ],
+          "bits": [ 34, 110, 109, 108, 107, 106, 105, 104, 103 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst data_reg",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:69.20-69.28|uart/uart.v:78.1-91.2"
@@ -15135,7 +13199,7 @@
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_E": {
           "hide_name": 0,
-          "bits": [ 67 ],
+          "bits": [ 102 ],
           "attributes": {
           }
         },
@@ -15165,7 +13229,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg": {
           "hide_name": 0,
-          "bits": [ 124, 117, 116, 115, 114, 123, 122, 121, 113, 112, 111, 110, 120, 109, 119, 118, 108, 107, 125 ],
+          "bits": [ 81, 80, 79, 95, 94, 93, 82, 92, 91, 83, 90, 89, 84, 85, 88, 78, 77, 86, 87 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst prescale_reg",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:70.12-70.24|uart/uart.v:78.1-91.2"
@@ -15173,7 +13237,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D": {
           "hide_name": 0,
-          "bits": [ 104, 197, 196, 194, 192, 190, 168, 167, 166, 176, 175, 174, 173, 172, 171, 170, 169, 165, 164 ],
+          "bits": [ 74, 145, 144, 143, 142, 141, 132, 131, 130, 140, 139, 138, 137, 136, 135, 134, 133, 129, 128 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -15181,7 +13245,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ "1", 124, 195, 193, 191, 189, 188, 187, 178, 177, 186, 185, 184, 183, 182, 181, 180, 179, 198 ],
+          "bits": [ "1", 81, 111, 125, 124, 123, 122, 121, 114, 112, 113, 120, 119, 118, 117, 115, 116, 126, 127 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -15189,52 +13253,50 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1_D": {
           "hide_name": 0,
-          "bits": [ 200 ],
+          "bits": [ 147 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2_D": {
           "hide_name": 0,
-          "bits": [ 201 ],
+          "bits": [ 148 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3_D": {
           "hide_name": 0,
-          "bits": [ 202 ],
+          "bits": [ 149 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4_D": {
           "hide_name": 0,
-          "bits": [ 203 ],
+          "bits": [ 150 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5_D": {
           "hide_name": 0,
-          "bits": [ 204 ],
+          "bits": [ 151 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_D": {
           "hide_name": 0,
-          "bits": [ 199 ],
+          "bits": [ 146 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_D_SB_LUT4_O_I3": {
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_E": {
           "hide_name": 0,
-          "bits": [ 65, 124, 66 ],
+          "bits": [ 37 ],
           "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
           }
         },
         "uart_inst.uart_tx_inst.rst": {
@@ -15247,7 +13309,7 @@
         },
         "uart_inst.uart_tx_inst.txd": {
           "hide_name": 0,
-          "bits": [ 56 ],
+          "bits": [ 27 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst txd",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:50.35-50.38|uart/uart.v:78.1-91.2"
@@ -15255,7 +13317,7 @@
         },
         "uart_inst.uart_tx_inst.txd_reg": {
           "hide_name": 0,
-          "bits": [ 56 ],
+          "bits": [ 27 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst txd_reg",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:65.5-65.12|uart/uart.v:78.1-91.2"
