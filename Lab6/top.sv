@@ -42,7 +42,15 @@ module mux8to1(
 );
  assign Y = I[S];
 // ternary operator
-// assign Y = S[3] ? I[7] : S[2] ? I[6] : S[1] ? I[5] : S[0] ? I[4] : S[3] ? I[3] : S[2] ? I[2] : S[1] ? I[1] : I[0];
+//assign Y = S == 3'b000 ? I[0] :
+//          S == 3'b001 ? I[1] :
+//          S == 3'b010 ? I[2] :
+//          S == 3'b011 ? I[3] :
+//          S == 3'b100 ? I[4] :
+//          S == 3'b101 ? I[5] :
+//          S == 3'b110 ? I[6] :
+//          S == 3'b111 ? I[7] :
+//          1'b0;
 endmodule
 
 //task2 8:3 encoder and 8:3 priority encoder with strobe
@@ -89,7 +97,16 @@ module pri_enc(
   output logic [2:0] Y,
   output logic G
 );
-assign Y =  I[7] ? 3'b111:
+assign Y =  I[7] ? 3'b111: Sum = 1'b1;
+//   end else begin
+//     Sum = 1'b0;
+//   end
+
+//   if ((A & B) | (A & Cin) | (B & Cin)) begin
+//     Cout = 1'b1;
+//   end else begin
+//     Cout = 1'b0;
+//   end
             I[6] ? 3'b110:
             I[5] ? 3'b101:
             I[4] ? 3'b100:
@@ -129,3 +146,5 @@ module ssdec(
 
   assign out = enable ? SEG7[in] : 7'b0000000; // enable implimentation
 endmodule
+
+//encodeplexer?
