@@ -166,4 +166,4 @@ module ssdec(
   assign out = enable ? SEG7[in] : 7'b0000000; // enable implimentation
 endmodule
 
-//
+//look ahead (to the future?)
