@@ -70,8 +70,8 @@ module ALU4bit(
 always_comb begin
   if(En) begin
     case(Ctrl)
-      3'b000: {M} = A + B + {3'b0,Cin}; // Addition
-      3'b001: {M} = A - B + {3'b0,Cin}; // Subtraction
+      3'b000: M = A + B + {3'b0,Cin}; // Addition
+      3'b001: M = A - B + {3'b0,Cin}; // Subtraction
       3'b010: M = ~A;               // Bitwise NOT
       3'b011: M = A & B;            // Bitwise AND
       3'b100: M = A | B;            // Bitwise OR
