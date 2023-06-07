@@ -5,10 +5,11 @@
 
 module lab_testbench ();
 
-logic CLK, N_RST, D_IN, D_OUT; //a testbench has no inputs or outputs, the DUT has.
+logic CLK, N_RST, D_IN, D_OUT, S_OUT; //a testbench has no inputs or outputs, the DUT has.
 logic [1023:0] testname;
 
 d_ff u1(.clk(CLK), .n_rst(N_RST), .d_in(D_IN), .d_out(D_OUT)); //create instance of your module and map its inputs and outputs to the tb 
+sync_low u2(.clk(CLK), .n_rst(N_RST), .async_in(D_IN), .sync_out(S_OUT)); //create instance of your module and map its inputs and outputs to the tb
 
 task automatic clock(integer n);
     while (n != 0) begin

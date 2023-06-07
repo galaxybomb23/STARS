@@ -9791,6 +9791,56 @@
             "O": [ 31 ]
           }
         },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_I3": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "1100111111111111"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ 36 ],
+            "I2": [ 37 ],
+            "I3": [ 34 ],
+            "O": [ 38 ]
+          }
+        },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0000000000000011"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ 39 ],
+            "I2": [ 40 ],
+            "I3": [ 41 ],
+            "O": [ 34 ]
+          }
+        },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
@@ -9831,10 +9881,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 38 ],
+            "CI": [ 42 ],
             "CO": [ 37 ],
             "I0": [ "0" ],
-            "I1": [ 39 ]
+            "I1": [ 43 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO": {
@@ -9852,10 +9902,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 40 ],
-            "CO": [ 41 ],
+            "CI": [ 44 ],
+            "CO": [ 45 ],
             "I0": [ "0" ],
-            "I1": [ 42 ]
+            "I1": [ 46 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_1": {
@@ -9873,10 +9923,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 43 ],
-            "CO": [ 40 ],
+            "CI": [ 47 ],
+            "CO": [ 44 ],
             "I0": [ "0" ],
-            "I1": [ 44 ]
+            "I1": [ 48 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_10": {
@@ -9894,10 +9944,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 45 ],
-            "CO": [ 46 ],
+            "CI": [ 49 ],
+            "CO": [ 50 ],
             "I0": [ "0" ],
-            "I1": [ 47 ]
+            "I1": [ 51 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_11": {
@@ -9915,55 +9965,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 48 ],
-            "CO": [ 45 ],
-            "I0": [ "0" ],
-            "I1": [ 49 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_12": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 50 ],
-            "CO": [ 48 ],
-            "I0": [ "0" ],
-            "I1": [ 51 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_13": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
             "CI": [ 52 ],
-            "CO": [ 50 ],
+            "CO": [ 49 ],
             "I0": [ "0" ],
             "I1": [ 53 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_14": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_12": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -9984,7 +9992,7 @@
             "I1": [ 55 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_15": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_13": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10005,6 +10013,48 @@
             "I1": [ 57 ]
           }
         },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_14": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 58 ],
+            "CO": [ 56 ],
+            "I0": [ "0" ],
+            "I1": [ 59 ]
+          }
+        },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_15": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 60 ],
+            "CO": [ 58 ],
+            "I0": [ "0" ],
+            "I1": [ 61 ]
+          }
+        },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_16": {
           "hide_name": 0,
           "type": "SB_CARRY",
@@ -10020,10 +10070,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 41 ],
-            "CO": [ 56 ],
+            "CI": [ 45 ],
+            "CO": [ 60 ],
             "I0": [ "0" ],
-            "I1": [ 58 ]
+            "I1": [ 62 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_2": {
@@ -10041,55 +10091,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 59 ],
-            "CO": [ 43 ],
-            "I0": [ "0" ],
-            "I1": [ 60 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_3": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 61 ],
-            "CO": [ 59 ],
-            "I0": [ "0" ],
-            "I1": [ 62 ]
-          }
-        },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_4": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
             "CI": [ 63 ],
-            "CO": [ 61 ],
+            "CO": [ 47 ],
             "I0": [ "0" ],
             "I1": [ 64 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_5": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_3": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10110,7 +10118,7 @@
             "I1": [ 66 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_6": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_4": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10131,7 +10139,7 @@
             "I1": [ 68 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_7": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_5": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10152,7 +10160,7 @@
             "I1": [ 70 ]
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_8": {
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_6": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10173,6 +10181,48 @@
             "I1": [ 72 ]
           }
         },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_7": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 73 ],
+            "CO": [ 71 ],
+            "I0": [ "0" ],
+            "I1": [ 74 ]
+          }
+        },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_8": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 75 ],
+            "CO": [ 73 ],
+            "I0": [ "0" ],
+            "I1": [ 76 ]
+          }
+        },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI_SB_CARRY_CO_9": {
           "hide_name": 0,
           "type": "SB_CARRY",
@@ -10188,10 +10238,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 46 ],
-            "CO": [ 38 ],
+            "CI": [ 50 ],
+            "CO": [ 42 ],
             "I0": [ "0" ],
-            "I1": [ 73 ]
+            "I1": [ 77 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O": {
@@ -10215,8 +10265,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 74 ],
-            "O": [ 47 ]
+            "I3": [ 78 ],
+            "O": [ 51 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_1": {
@@ -10240,8 +10290,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 75 ],
-            "O": [ 49 ]
+            "I3": [ 79 ],
+            "O": [ 61 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_10": {
@@ -10265,8 +10315,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 76 ],
-            "O": [ 70 ]
+            "I3": [ 80 ],
+            "O": [ 62 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_11": {
@@ -10290,8 +10340,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 77 ],
-            "O": [ 72 ]
+            "I3": [ 81 ],
+            "O": [ 59 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_12": {
@@ -10315,8 +10365,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 78 ],
-            "O": [ 71 ]
+            "I3": [ 82 ],
+            "O": [ 46 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_13": {
@@ -10340,8 +10390,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 79 ],
-            "O": [ 58 ]
+            "I3": [ 83 ],
+            "O": [ 57 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_14": {
@@ -10365,8 +10415,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 80 ],
-            "O": [ 57 ]
+            "I3": [ 84 ],
+            "O": [ 48 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_15": {
@@ -10390,7 +10440,7 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 81 ],
+            "I3": [ 85 ],
             "O": [ 55 ]
           }
         },
@@ -10415,8 +10465,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 82 ],
-            "O": [ 51 ]
+            "I3": [ 86 ],
+            "O": [ 53 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_17": {
@@ -10440,8 +10490,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 83 ],
-            "O": [ 73 ]
+            "I3": [ 87 ],
+            "O": [ 77 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_18": {
@@ -10465,8 +10515,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 84 ],
-            "O": [ 39 ]
+            "I3": [ 88 ],
+            "O": [ 43 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_2": {
@@ -10490,8 +10540,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 85 ],
-            "O": [ 53 ]
+            "I3": [ 89 ],
+            "O": [ 64 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_3": {
@@ -10515,8 +10565,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 86 ],
-            "O": [ 42 ]
+            "I3": [ 90 ],
+            "O": [ 66 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_4": {
@@ -10540,8 +10590,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 87 ],
-            "O": [ 44 ]
+            "I3": [ 91 ],
+            "O": [ 68 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_5": {
@@ -10565,8 +10615,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 88 ],
-            "O": [ 60 ]
+            "I3": [ 92 ],
+            "O": [ 70 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_6": {
@@ -10590,8 +10640,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 89 ],
-            "O": [ 62 ]
+            "I3": [ 93 ],
+            "O": [ 72 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_7": {
@@ -10615,8 +10665,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 90 ],
-            "O": [ 64 ]
+            "I3": [ 94 ],
+            "O": [ 74 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_8": {
@@ -10640,8 +10690,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 91 ],
-            "O": [ 66 ]
+            "I3": [ 95 ],
+            "O": [ 76 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1_SB_LUT4_O_9": {
@@ -10665,8 +10715,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 92 ],
-            "O": [ 68 ]
+            "I3": [ 96 ],
+            "O": [ 75 ]
           }
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_S_SB_LUT4_O": {
@@ -10709,10 +10759,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 93 ],
-            "CO": [ 94 ],
+            "CI": [ 97 ],
+            "CO": [ 98 ],
             "I0": [ "0" ],
-            "I1": [ 95 ]
+            "I1": [ 99 ]
           }
         },
         "ctr_SB_CARRY_I1": {
@@ -10730,10 +10780,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 96 ],
-            "CO": [ 97 ],
+            "CI": [ 100 ],
+            "CO": [ 101 ],
             "I0": [ "0" ],
-            "I1": [ 98 ]
+            "I1": [ 102 ]
           }
         },
         "ctr_SB_CARRY_I1_1": {
@@ -10751,10 +10801,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 99 ],
-            "CO": [ 96 ],
+            "CI": [ 103 ],
+            "CO": [ 100 ],
             "I0": [ "0" ],
-            "I1": [ 100 ]
+            "I1": [ 104 ]
           }
         },
         "ctr_SB_CARRY_I1_10": {
@@ -10772,10 +10822,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 101 ],
-            "CO": [ 102 ],
+            "CI": [ 105 ],
+            "CO": [ 106 ],
             "I0": [ "0" ],
-            "I1": [ 103 ]
+            "I1": [ 107 ]
           }
         },
         "ctr_SB_CARRY_I1_11": {
@@ -10793,10 +10843,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 104 ],
-            "CO": [ 101 ],
+            "CI": [ 108 ],
+            "CO": [ 105 ],
             "I0": [ "0" ],
-            "I1": [ 105 ]
+            "I1": [ 109 ]
           }
         },
         "ctr_SB_CARRY_I1_12": {
@@ -10814,10 +10864,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 97 ],
-            "CO": [ 104 ],
+            "CI": [ 101 ],
+            "CO": [ 108 ],
             "I0": [ "0" ],
-            "I1": [ 106 ]
+            "I1": [ 110 ]
           }
         },
         "ctr_SB_CARRY_I1_2": {
@@ -10835,55 +10885,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 107 ],
-            "CO": [ 99 ],
-            "I0": [ "0" ],
-            "I1": [ 108 ]
-          }
-        },
-        "ctr_SB_CARRY_I1_3": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 109 ],
-            "CO": [ 107 ],
-            "I0": [ "0" ],
-            "I1": [ 110 ]
-          }
-        },
-        "ctr_SB_CARRY_I1_4": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
             "CI": [ 111 ],
-            "CO": [ 109 ],
+            "CO": [ 103 ],
             "I0": [ "0" ],
             "I1": [ 112 ]
           }
         },
-        "ctr_SB_CARRY_I1_5": {
+        "ctr_SB_CARRY_I1_3": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10904,7 +10912,7 @@
             "I1": [ 114 ]
           }
         },
-        "ctr_SB_CARRY_I1_6": {
+        "ctr_SB_CARRY_I1_4": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10925,6 +10933,48 @@
             "I1": [ 116 ]
           }
         },
+        "ctr_SB_CARRY_I1_5": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 117 ],
+            "CO": [ 115 ],
+            "I0": [ "0" ],
+            "I1": [ 118 ]
+          }
+        },
+        "ctr_SB_CARRY_I1_6": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 119 ],
+            "CO": [ 117 ],
+            "I0": [ "0" ],
+            "I1": [ 120 ]
+          }
+        },
         "ctr_SB_CARRY_I1_7": {
           "hide_name": 0,
           "type": "SB_CARRY",
@@ -10940,10 +10990,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 94 ],
-            "CO": [ 115 ],
+            "CI": [ 98 ],
+            "CO": [ 119 ],
             "I0": [ "0" ],
-            "I1": [ 117 ]
+            "I1": [ 121 ]
           }
         },
         "ctr_SB_CARRY_I1_8": {
@@ -10961,10 +11011,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 118 ],
-            "CO": [ 119 ],
+            "CI": [ 122 ],
+            "CO": [ 123 ],
             "I0": [ "0" ],
-            "I1": [ 120 ]
+            "I1": [ 124 ]
           }
         },
         "ctr_SB_CARRY_I1_9": {
@@ -10982,10 +11032,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 102 ],
-            "CO": [ 118 ],
+            "CI": [ 106 ],
+            "CO": [ 122 ],
             "I0": [ "0" ],
-            "I1": [ 121 ]
+            "I1": [ 125 ]
           }
         },
         "ctr_SB_DFFSR_Q": {
@@ -11005,9 +11055,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 122 ],
-            "Q": [ 123 ],
-            "R": [ 124 ]
+            "D": [ 126 ],
+            "Q": [ 127 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_1": {
@@ -11027,9 +11077,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 125 ],
-            "Q": [ 120 ],
-            "R": [ 124 ]
+            "D": [ 129 ],
+            "Q": [ 124 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_10": {
@@ -11049,9 +11099,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 126 ],
-            "Q": [ 112 ],
-            "R": [ 124 ]
+            "D": [ 130 ],
+            "Q": [ 116 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_11": {
@@ -11071,9 +11121,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 127 ],
-            "Q": [ 114 ],
-            "R": [ 124 ]
+            "D": [ 131 ],
+            "Q": [ 118 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_12": {
@@ -11093,9 +11143,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 128 ],
-            "Q": [ 116 ],
-            "R": [ 124 ]
+            "D": [ 132 ],
+            "Q": [ 120 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_13": {
@@ -11115,9 +11165,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 129 ],
-            "Q": [ 117 ],
-            "R": [ 124 ]
+            "D": [ 133 ],
+            "Q": [ 121 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_14": {
@@ -11137,9 +11187,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 130 ],
-            "Q": [ 95 ],
-            "R": [ 124 ]
+            "D": [ 134 ],
+            "Q": [ 99 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_15": {
@@ -11159,9 +11209,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 131 ],
-            "Q": [ 93 ],
-            "R": [ 124 ]
+            "D": [ 135 ],
+            "Q": [ 97 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_2": {
@@ -11181,9 +11231,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 132 ],
-            "Q": [ 121 ],
-            "R": [ 124 ]
+            "D": [ 136 ],
+            "Q": [ 125 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_3": {
@@ -11203,9 +11253,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 133 ],
-            "Q": [ 103 ],
-            "R": [ 124 ]
+            "D": [ 137 ],
+            "Q": [ 107 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_4": {
@@ -11225,9 +11275,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 134 ],
-            "Q": [ 105 ],
-            "R": [ 124 ]
+            "D": [ 138 ],
+            "Q": [ 109 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_5": {
@@ -11247,9 +11297,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 135 ],
-            "Q": [ 106 ],
-            "R": [ 124 ]
+            "D": [ 139 ],
+            "Q": [ 110 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_6": {
@@ -11269,9 +11319,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 136 ],
-            "Q": [ 98 ],
-            "R": [ 124 ]
+            "D": [ 140 ],
+            "Q": [ 102 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_7": {
@@ -11291,9 +11341,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 137 ],
-            "Q": [ 100 ],
-            "R": [ 124 ]
+            "D": [ 141 ],
+            "Q": [ 104 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_8": {
@@ -11313,9 +11363,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 138 ],
-            "Q": [ 108 ],
-            "R": [ 124 ]
+            "D": [ 142 ],
+            "Q": [ 112 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_9": {
@@ -11335,9 +11385,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 139 ],
-            "Q": [ 110 ],
-            "R": [ 124 ]
+            "D": [ 143 ],
+            "Q": [ 114 ],
+            "R": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O": {
@@ -11358,18 +11408,18 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ 140 ],
-            "I1": [ 141 ],
-            "I2": [ 142 ],
-            "I3": [ 143 ],
-            "O": [ 124 ]
+            "I0": [ 144 ],
+            "I1": [ 145 ],
+            "I2": [ 146 ],
+            "I3": [ 147 ],
+            "O": [ 128 ]
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O_I0_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0001000000000000"
+            "LUT_INIT": "0100000000000000"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
@@ -11383,11 +11433,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ 106 ],
-            "I1": [ 103 ],
-            "I2": [ 112 ],
-            "I3": [ 110 ],
-            "O": [ 143 ]
+            "I0": [ 107 ],
+            "I1": [ 116 ],
+            "I2": [ 114 ],
+            "I3": [ 102 ],
+            "O": [ 147 ]
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O_I0_SB_LUT4_O_1": {
@@ -11408,18 +11458,18 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ 98 ],
-            "I1": [ 105 ],
-            "I2": [ 121 ],
-            "I3": [ 123 ],
-            "O": [ 142 ]
+            "I0": [ 109 ],
+            "I1": [ 125 ],
+            "I2": [ 124 ],
+            "I3": [ 127 ],
+            "O": [ 146 ]
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O_I0_SB_LUT4_O_2": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0000000100000000"
+            "LUT_INIT": "0000000000000001"
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
@@ -11433,11 +11483,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ 93 ],
-            "I1": [ 95 ],
-            "I2": [ 117 ],
+            "I0": [ 97 ],
+            "I1": [ 99 ],
+            "I2": [ 121 ],
             "I3": [ 120 ],
-            "O": [ 141 ]
+            "O": [ 145 ]
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O_I0_SB_LUT4_O_3": {
@@ -11458,11 +11508,11 @@
             "O": "output"
           },
           "connections": {
-            "I0": [ 116 ],
-            "I1": [ 114 ],
-            "I2": [ 108 ],
-            "I3": [ 100 ],
-            "O": [ 140 ]
+            "I0": [ 118 ],
+            "I1": [ 112 ],
+            "I2": [ 104 ],
+            "I3": [ 110 ],
+            "O": [ 144 ]
           }
         },
         "ctr_SB_LUT4_I2": {
@@ -11485,9 +11535,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 98 ],
-            "I3": [ 96 ],
-            "O": [ 136 ]
+            "I2": [ 102 ],
+            "I3": [ 100 ],
+            "O": [ 140 ]
           }
         },
         "ctr_SB_LUT4_I2_1": {
@@ -11510,9 +11560,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 100 ],
-            "I3": [ 99 ],
-            "O": [ 137 ]
+            "I2": [ 104 ],
+            "I3": [ 103 ],
+            "O": [ 141 ]
           }
         },
         "ctr_SB_LUT4_I2_10": {
@@ -11535,9 +11585,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 120 ],
-            "I3": [ 118 ],
-            "O": [ 125 ]
+            "I2": [ 124 ],
+            "I3": [ 122 ],
+            "O": [ 129 ]
           }
         },
         "ctr_SB_LUT4_I2_11": {
@@ -11560,9 +11610,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 121 ],
-            "I3": [ 102 ],
-            "O": [ 132 ]
+            "I2": [ 125 ],
+            "I3": [ 106 ],
+            "O": [ 136 ]
           }
         },
         "ctr_SB_LUT4_I2_12": {
@@ -11585,9 +11635,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 103 ],
-            "I3": [ 101 ],
-            "O": [ 133 ]
+            "I2": [ 107 ],
+            "I3": [ 105 ],
+            "O": [ 137 ]
           }
         },
         "ctr_SB_LUT4_I2_13": {
@@ -11610,9 +11660,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 105 ],
-            "I3": [ 104 ],
-            "O": [ 134 ]
+            "I2": [ 109 ],
+            "I3": [ 108 ],
+            "O": [ 138 ]
           }
         },
         "ctr_SB_LUT4_I2_14": {
@@ -11635,9 +11685,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 106 ],
-            "I3": [ 97 ],
-            "O": [ 135 ]
+            "I2": [ 110 ],
+            "I3": [ 101 ],
+            "O": [ 139 ]
           }
         },
         "ctr_SB_LUT4_I2_2": {
@@ -11660,9 +11710,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 108 ],
-            "I3": [ 107 ],
-            "O": [ 138 ]
+            "I2": [ 112 ],
+            "I3": [ 111 ],
+            "O": [ 142 ]
           }
         },
         "ctr_SB_LUT4_I2_3": {
@@ -11685,9 +11735,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 110 ],
-            "I3": [ 109 ],
-            "O": [ 139 ]
+            "I2": [ 114 ],
+            "I3": [ 113 ],
+            "O": [ 143 ]
           }
         },
         "ctr_SB_LUT4_I2_4": {
@@ -11710,9 +11760,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 112 ],
-            "I3": [ 111 ],
-            "O": [ 126 ]
+            "I2": [ 116 ],
+            "I3": [ 115 ],
+            "O": [ 130 ]
           }
         },
         "ctr_SB_LUT4_I2_5": {
@@ -11735,9 +11785,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 114 ],
-            "I3": [ 113 ],
-            "O": [ 127 ]
+            "I2": [ 118 ],
+            "I3": [ 117 ],
+            "O": [ 131 ]
           }
         },
         "ctr_SB_LUT4_I2_6": {
@@ -11760,9 +11810,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 116 ],
-            "I3": [ 115 ],
-            "O": [ 128 ]
+            "I2": [ 120 ],
+            "I3": [ 119 ],
+            "O": [ 132 ]
           }
         },
         "ctr_SB_LUT4_I2_7": {
@@ -11785,9 +11835,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 117 ],
-            "I3": [ 94 ],
-            "O": [ 129 ]
+            "I2": [ 121 ],
+            "I3": [ 98 ],
+            "O": [ 133 ]
           }
         },
         "ctr_SB_LUT4_I2_8": {
@@ -11810,9 +11860,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 95 ],
-            "I3": [ 93 ],
-            "O": [ 130 ]
+            "I2": [ 99 ],
+            "I3": [ 97 ],
+            "O": [ 134 ]
           }
         },
         "ctr_SB_LUT4_I2_9": {
@@ -11835,9 +11885,9 @@
           "connections": {
             "I0": [ "0" ],
             "I1": [ "0" ],
-            "I2": [ 123 ],
-            "I3": [ 119 ],
-            "O": [ 122 ]
+            "I2": [ 127 ],
+            "I3": [ 123 ],
+            "O": [ 126 ]
           }
         },
         "ctr_SB_LUT4_I3": {
@@ -11861,8 +11911,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 93 ],
-            "O": [ 131 ]
+            "I3": [ 97 ],
+            "O": [ 135 ]
           }
         },
         "hz100_SB_DFFE_Q": {
@@ -11882,9 +11932,9 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 144 ],
-            "E": [ 124 ],
-            "Q": [ 145 ]
+            "D": [ 148 ],
+            "E": [ 128 ],
+            "Q": [ 149 ]
           }
         },
         "hz100_SB_DFFE_Q_D_SB_LUT4_O": {
@@ -11908,33 +11958,8 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 145 ],
-            "O": [ 144 ]
-          }
-        },
-        "pb_SB_LUT4_I3": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000011111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:12.34-13.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ "0" ],
-            "I3": [ 3 ],
-            "O": [ 146 ]
+            "I3": [ 149 ],
+            "O": [ 148 ]
           }
         },
         "pll": {
@@ -11978,7 +12003,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:47.1-55.6|top.sv:25.10-25.79|/home/shay/a/ece270/bin/../share/yosys/ice40/ff_map.v:9.57-9.103"
+            "src": "ice40hx8k.sv:112.9-120.6|top.sv:34.1-38.19|top.sv:19.6-19.68|/home/shay/a/ece270/bin/../share/yosys/ice40/ff_map.v:9.57-9.103"
           },
           "port_directions": {
             "C": "input",
@@ -11987,10 +12012,35 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 145 ],
+            "C": [ 149 ],
             "D": [ 4 ],
             "Q": [ 24 ],
-            "R": [ 146 ]
+            "R": [ 150 ]
+          }
+        },
+        "top_inst.u1.d_out_SB_DFFR_Q_R_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0000000011111111"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:12.34-13.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ "0" ],
+            "I2": [ "0" ],
+            "I3": [ 3 ],
+            "O": [ 150 ]
           }
         },
         "top_inst.u2.sync_out_SB_DFFR_Q": {
@@ -12010,33 +12060,10 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 145 ],
-            "D": [ 147 ],
-            "Q": [ 25 ],
-            "R": [ 146 ]
-          }
-        },
-        "top_inst.u2.sync_reg_SB_DFFR_Q": {
-          "hide_name": 0,
-          "type": "SB_DFFR",
-          "parameters": {
-          },
-          "attributes": {
-            "always_ff": "00000000000000000000000000000001",
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:47.1-55.6|top.sv:25.10-25.79|/home/shay/a/ece270/bin/../share/yosys/ice40/ff_map.v:9.57-9.103"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output",
-            "R": "input"
-          },
-          "connections": {
-            "C": [ 145 ],
+            "C": [ 149 ],
             "D": [ 24 ],
-            "Q": [ 147 ],
-            "R": [ 146 ]
+            "Q": [ 25 ],
+            "R": [ 150 ]
           }
         },
         "top_inst.u3.q_out_SB_DFFER_Q": {
@@ -12057,11 +12084,11 @@
             "R": "input"
           },
           "connections": {
-            "C": [ 145 ],
-            "D": [ 148 ],
-            "E": [ 149 ],
+            "C": [ 149 ],
+            "D": [ 151 ],
+            "E": [ 152 ],
             "Q": [ 26 ],
-            "R": [ 146 ]
+            "R": [ 150 ]
           }
         },
         "top_inst.u3.q_out_SB_DFFER_Q_E_SB_LUT4_O": {
@@ -12086,7 +12113,7 @@
             "I1": [ "0" ],
             "I2": [ 4 ],
             "I3": [ 5 ],
-            "O": [ 149 ]
+            "O": [ 152 ]
           }
         },
         "top_inst.u3.q_out_SB_LUT4_I1": {
@@ -12111,7 +12138,7 @@
             "I1": [ 26 ],
             "I2": [ 5 ],
             "I3": [ 4 ],
-            "O": [ 148 ]
+            "O": [ 151 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q": {
@@ -12132,9 +12159,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 150 ],
+            "D": [ 153 ],
             "E": [ 32 ],
-            "Q": [ 151 ],
+            "Q": [ 40 ],
             "R": [ 33 ]
           }
         },
@@ -12156,9 +12183,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 152 ],
+            "D": [ 154 ],
             "E": [ 32 ],
-            "Q": [ 153 ],
+            "Q": [ 39 ],
             "R": [ 33 ]
           }
         },
@@ -12181,7 +12208,7 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 154 ],
+            "I1": [ 41 ],
             "I2": [ "1" ],
             "I3": [ 155 ],
             "O": [ 156 ]
@@ -12206,10 +12233,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 151 ],
+            "I1": [ 40 ],
             "I2": [ "1" ],
             "I3": [ 157 ],
-            "O": [ 150 ]
+            "O": [ 153 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_2": {
@@ -12231,10 +12258,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 153 ],
+            "I1": [ 39 ],
             "I2": [ "1" ],
             "I3": [ 36 ],
-            "O": [ 152 ]
+            "O": [ 154 ]
           }
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D_SB_LUT4_O_3": {
@@ -12279,7 +12306,7 @@
           "connections": {
             "CI": [ 157 ],
             "CO": [ 155 ],
-            "I0": [ 151 ],
+            "I0": [ 40 ],
             "I1": [ "1" ]
           }
         },
@@ -12300,7 +12327,7 @@
           "connections": {
             "CI": [ 36 ],
             "CO": [ 157 ],
-            "I0": [ 153 ],
+            "I0": [ 39 ],
             "I1": [ "1" ]
           }
         },
@@ -12324,7 +12351,7 @@
             "C": [ 30 ],
             "D": [ 156 ],
             "E": [ 32 ],
-            "Q": [ 154 ],
+            "Q": [ 41 ],
             "S": [ 33 ]
           }
         },
@@ -12352,56 +12379,6 @@
             "S": [ 33 ]
           }
         },
-        "uart_inst.uart_tx_inst.bit_cnt_SB_LUT4_I1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "1100111111111111"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 36 ],
-            "I2": [ 37 ],
-            "I3": [ 34 ],
-            "O": [ 159 ]
-          }
-        },
-        "uart_inst.uart_tx_inst.bit_cnt_SB_LUT4_I1_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0000000000000011"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:22.34-23.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ 153 ],
-            "I2": [ 151 ],
-            "I3": [ 154 ],
-            "O": [ 34 ]
-          }
-        },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFESS_Q": {
           "hide_name": 0,
           "type": "SB_DFFESS",
@@ -12421,8 +12398,8 @@
           "connections": {
             "C": [ 30 ],
             "D": [ "0" ],
-            "E": [ 160 ],
-            "Q": [ 161 ],
+            "E": [ 159 ],
+            "Q": [ 160 ],
             "S": [ 33 ]
           }
         },
@@ -12443,9 +12420,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 161 ],
-            "E": [ 160 ],
-            "Q": [ 162 ]
+            "D": [ 160 ],
+            "E": [ 159 ],
+            "Q": [ 161 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_1": {
@@ -12465,9 +12442,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 162 ],
-            "E": [ 160 ],
-            "Q": [ 163 ]
+            "D": [ 161 ],
+            "E": [ 159 ],
+            "Q": [ 162 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_2": {
@@ -12487,9 +12464,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 163 ],
-            "E": [ 160 ],
-            "Q": [ 164 ]
+            "D": [ 162 ],
+            "E": [ 159 ],
+            "Q": [ 163 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_3": {
@@ -12509,9 +12486,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 164 ],
-            "E": [ 160 ],
-            "Q": [ 165 ]
+            "D": [ 163 ],
+            "E": [ 159 ],
+            "Q": [ 164 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_4": {
@@ -12531,9 +12508,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 165 ],
-            "E": [ 160 ],
-            "Q": [ 166 ]
+            "D": [ 164 ],
+            "E": [ 159 ],
+            "Q": [ 165 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_5": {
@@ -12553,9 +12530,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 166 ],
-            "E": [ 160 ],
-            "Q": [ 167 ]
+            "D": [ 165 ],
+            "E": [ 159 ],
+            "Q": [ 166 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_6": {
@@ -12575,9 +12552,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 167 ],
-            "E": [ 160 ],
-            "Q": [ 168 ]
+            "D": [ 166 ],
+            "E": [ 159 ],
+            "Q": [ 167 ]
           }
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_7": {
@@ -12597,8 +12574,8 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 168 ],
-            "E": [ 160 ],
+            "D": [ 167 ],
+            "E": [ 159 ],
             "Q": [ 35 ]
           }
         },
@@ -12624,7 +12601,7 @@
             "I1": [ "0" ],
             "I2": [ 34 ],
             "I3": [ 37 ],
-            "O": [ 160 ]
+            "O": [ 159 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_CARRY_CI": {
@@ -12642,9 +12619,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 78 ],
-            "CO": [ 169 ],
-            "I0": [ 77 ],
+            "CI": [ 96 ],
+            "CO": [ 168 ],
+            "I0": [ 95 ],
             "I1": [ "1" ]
           }
         },
@@ -12663,9 +12640,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 170 ],
-            "CO": [ 171 ],
-            "I0": [ 86 ],
+            "CI": [ 169 ],
+            "CO": [ 170 ],
+            "I0": [ 82 ],
             "I1": [ "1" ]
           }
         },
@@ -12684,9 +12661,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 172 ],
-            "CO": [ 170 ],
-            "I0": [ 87 ],
+            "CI": [ 171 ],
+            "CO": [ 169 ],
+            "I0": [ 84 ],
             "I1": [ "1" ]
           }
         },
@@ -12705,9 +12682,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 173 ],
-            "CO": [ 174 ],
-            "I0": [ 75 ],
+            "CI": [ 172 ],
+            "CO": [ 173 ],
+            "I0": [ 86 ],
             "I1": [ "1" ]
           }
         },
@@ -12726,9 +12703,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 175 ],
-            "CO": [ 173 ],
-            "I0": [ 82 ],
+            "CI": [ 174 ],
+            "CO": [ 172 ],
+            "I0": [ 85 ],
             "I1": [ "1" ]
           }
         },
@@ -12747,9 +12724,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 176 ],
-            "CO": [ 175 ],
-            "I0": [ 85 ],
+            "CI": [ 175 ],
+            "CO": [ 174 ],
+            "I0": [ 83 ],
             "I1": [ "1" ]
           }
         },
@@ -12768,8 +12745,8 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 177 ],
-            "CO": [ 176 ],
+            "CI": [ 176 ],
+            "CO": [ 175 ],
             "I0": [ 81 ],
             "I1": [ "1" ]
           }
@@ -12789,9 +12766,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 178 ],
-            "CO": [ 177 ],
-            "I0": [ 80 ],
+            "CI": [ 177 ],
+            "CO": [ 176 ],
+            "I0": [ 79 ],
             "I1": [ "1" ]
           }
         },
@@ -12810,9 +12787,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 171 ],
-            "CO": [ 178 ],
-            "I0": [ 79 ],
+            "CI": [ 170 ],
+            "CO": [ 177 ],
+            "I0": [ 80 ],
             "I1": [ "1" ]
           }
         },
@@ -12831,9 +12808,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 179 ],
-            "CO": [ 172 ],
-            "I0": [ 88 ],
+            "CI": [ 178 ],
+            "CO": [ 171 ],
+            "I0": [ 89 ],
             "I1": [ "1" ]
           }
         },
@@ -12852,9 +12829,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 180 ],
-            "CO": [ 179 ],
-            "I0": [ 89 ],
+            "CI": [ 179 ],
+            "CO": [ 178 ],
+            "I0": [ 90 ],
             "I1": [ "1" ]
           }
         },
@@ -12873,9 +12850,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 181 ],
-            "CO": [ 180 ],
-            "I0": [ 90 ],
+            "CI": [ 180 ],
+            "CO": [ 179 ],
+            "I0": [ 91 ],
             "I1": [ "1" ]
           }
         },
@@ -12894,9 +12871,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 182 ],
-            "CO": [ 181 ],
-            "I0": [ 91 ],
+            "CI": [ 181 ],
+            "CO": [ 180 ],
+            "I0": [ 92 ],
             "I1": [ "1" ]
           }
         },
@@ -12915,9 +12892,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 183 ],
-            "CO": [ 182 ],
-            "I0": [ 92 ],
+            "CI": [ 182 ],
+            "CO": [ 181 ],
+            "I0": [ 93 ],
             "I1": [ "1" ]
           }
         },
@@ -12936,9 +12913,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 169 ],
-            "CO": [ 183 ],
-            "I0": [ 76 ],
+            "CI": [ 168 ],
+            "CO": [ 182 ],
+            "I0": [ 94 ],
             "I1": [ "1" ]
           }
         },
@@ -12957,9 +12934,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 184 ],
-            "CO": [ 185 ],
-            "I0": [ 83 ],
+            "CI": [ 183 ],
+            "CO": [ 184 ],
+            "I0": [ 87 ],
             "I1": [ "1" ]
           }
         },
@@ -12978,9 +12955,9 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 174 ],
-            "CO": [ 184 ],
-            "I0": [ 74 ],
+            "CI": [ 173 ],
+            "CO": [ 183 ],
+            "I0": [ 78 ],
             "I1": [ "1" ]
           }
         },
@@ -13002,9 +12979,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 186 ],
-            "E": [ 159 ],
-            "Q": [ 84 ],
+            "D": [ 185 ],
+            "E": [ 38 ],
+            "Q": [ 88 ],
             "R": [ 37 ]
           }
         },
@@ -13026,9 +13003,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 187 ],
-            "E": [ 159 ],
-            "Q": [ 83 ],
+            "D": [ 186 ],
+            "E": [ 38 ],
+            "Q": [ 87 ],
             "R": [ 37 ]
           }
         },
@@ -13050,9 +13027,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 188 ],
-            "E": [ 159 ],
-            "Q": [ 87 ],
+            "D": [ 187 ],
+            "E": [ 38 ],
+            "Q": [ 84 ],
             "R": [ 37 ]
           }
         },
@@ -13074,9 +13051,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 189 ],
-            "E": [ 159 ],
-            "Q": [ 88 ],
+            "D": [ 188 ],
+            "E": [ 38 ],
+            "Q": [ 89 ],
             "R": [ 37 ]
           }
         },
@@ -13098,9 +13075,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 190 ],
-            "E": [ 159 ],
-            "Q": [ 89 ],
+            "D": [ 189 ],
+            "E": [ 38 ],
+            "Q": [ 90 ],
             "R": [ 37 ]
           }
         },
@@ -13122,9 +13099,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 191 ],
-            "E": [ 159 ],
-            "Q": [ 74 ],
+            "D": [ 190 ],
+            "E": [ 38 ],
+            "Q": [ 78 ],
             "R": [ 37 ]
           }
         },
@@ -13146,9 +13123,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 192 ],
-            "E": [ 159 ],
-            "Q": [ 75 ],
+            "D": [ 191 ],
+            "E": [ 38 ],
+            "Q": [ 86 ],
             "R": [ 37 ]
           }
         },
@@ -13170,9 +13147,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 193 ],
-            "E": [ 159 ],
-            "Q": [ 82 ],
+            "D": [ 192 ],
+            "E": [ 38 ],
+            "Q": [ 85 ],
             "R": [ 37 ]
           }
         },
@@ -13194,9 +13171,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 194 ],
-            "E": [ 159 ],
-            "Q": [ 85 ],
+            "D": [ 193 ],
+            "E": [ 38 ],
+            "Q": [ 83 ],
             "R": [ 37 ]
           }
         },
@@ -13218,8 +13195,8 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 195 ],
-            "E": [ 159 ],
+            "D": [ 194 ],
+            "E": [ 38 ],
             "Q": [ 81 ],
             "R": [ 37 ]
           }
@@ -13242,9 +13219,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 196 ],
-            "E": [ 159 ],
-            "Q": [ 80 ],
+            "D": [ 195 ],
+            "E": [ 38 ],
+            "Q": [ 79 ],
             "R": [ 37 ]
           }
         },
@@ -13266,9 +13243,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 197 ],
-            "E": [ 159 ],
-            "Q": [ 79 ],
+            "D": [ 196 ],
+            "E": [ 38 ],
+            "Q": [ 80 ],
             "R": [ 37 ]
           }
         },
@@ -13290,9 +13267,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 198 ],
-            "E": [ 159 ],
-            "Q": [ 86 ],
+            "D": [ 197 ],
+            "E": [ 38 ],
+            "Q": [ 82 ],
             "R": [ 37 ]
           }
         },
@@ -13315,10 +13292,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 86 ],
+            "I1": [ 82 ],
             "I2": [ "1" ],
-            "I3": [ 170 ],
-            "O": [ 198 ]
+            "I3": [ 169 ],
+            "O": [ 197 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_1": {
@@ -13340,10 +13317,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 87 ],
+            "I1": [ 84 ],
             "I2": [ "1" ],
-            "I3": [ 172 ],
-            "O": [ 188 ]
+            "I3": [ 171 ],
+            "O": [ 187 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_10": {
@@ -13365,10 +13342,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 83 ],
+            "I1": [ 87 ],
             "I2": [ "1" ],
-            "I3": [ 184 ],
-            "O": [ 187 ]
+            "I3": [ 183 ],
+            "O": [ 186 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_11": {
@@ -13390,10 +13367,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 74 ],
+            "I1": [ 78 ],
             "I2": [ "1" ],
-            "I3": [ 174 ],
-            "O": [ 191 ]
+            "I3": [ 173 ],
+            "O": [ 190 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_12": {
@@ -13415,10 +13392,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 75 ],
+            "I1": [ 86 ],
             "I2": [ "1" ],
-            "I3": [ 173 ],
-            "O": [ 192 ]
+            "I3": [ 172 ],
+            "O": [ 191 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_13": {
@@ -13440,10 +13417,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 82 ],
+            "I1": [ 85 ],
             "I2": [ "1" ],
-            "I3": [ 175 ],
-            "O": [ 193 ]
+            "I3": [ 174 ],
+            "O": [ 192 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_14": {
@@ -13465,10 +13442,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 85 ],
+            "I1": [ 83 ],
             "I2": [ "1" ],
-            "I3": [ 176 ],
-            "O": [ 194 ]
+            "I3": [ 175 ],
+            "O": [ 193 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_15": {
@@ -13492,8 +13469,8 @@
             "I0": [ "0" ],
             "I1": [ 81 ],
             "I2": [ "1" ],
-            "I3": [ 177 ],
-            "O": [ 195 ]
+            "I3": [ 176 ],
+            "O": [ 194 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_16": {
@@ -13515,10 +13492,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 80 ],
+            "I1": [ 79 ],
             "I2": [ "1" ],
-            "I3": [ 178 ],
-            "O": [ 196 ]
+            "I3": [ 177 ],
+            "O": [ 195 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_17": {
@@ -13540,10 +13517,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 79 ],
+            "I1": [ 80 ],
             "I2": [ "1" ],
-            "I3": [ 171 ],
-            "O": [ 197 ]
+            "I3": [ 170 ],
+            "O": [ 196 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_2": {
@@ -13565,10 +13542,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 88 ],
+            "I1": [ 89 ],
             "I2": [ "1" ],
-            "I3": [ 179 ],
-            "O": [ 189 ]
+            "I3": [ 178 ],
+            "O": [ 188 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_3": {
@@ -13590,10 +13567,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 89 ],
+            "I1": [ 90 ],
             "I2": [ "1" ],
-            "I3": [ 180 ],
-            "O": [ 190 ]
+            "I3": [ 179 ],
+            "O": [ 189 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_4": {
@@ -13615,10 +13592,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 90 ],
+            "I1": [ 91 ],
             "I2": [ "1" ],
-            "I3": [ 181 ],
-            "O": [ 199 ]
+            "I3": [ 180 ],
+            "O": [ 198 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_5": {
@@ -13640,10 +13617,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 91 ],
+            "I1": [ 92 ],
             "I2": [ "1" ],
-            "I3": [ 182 ],
-            "O": [ 200 ]
+            "I3": [ 181 ],
+            "O": [ 199 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_6": {
@@ -13665,10 +13642,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 92 ],
+            "I1": [ 93 ],
             "I2": [ "1" ],
-            "I3": [ 183 ],
-            "O": [ 201 ]
+            "I3": [ 182 ],
+            "O": [ 200 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_7": {
@@ -13690,10 +13667,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 76 ],
+            "I1": [ 94 ],
             "I2": [ "1" ],
-            "I3": [ 169 ],
-            "O": [ 202 ]
+            "I3": [ 168 ],
+            "O": [ 201 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_8": {
@@ -13715,10 +13692,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 77 ],
+            "I1": [ 95 ],
             "I2": [ "1" ],
-            "I3": [ 78 ],
-            "O": [ 203 ]
+            "I3": [ 96 ],
+            "O": [ 202 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_9": {
@@ -13740,10 +13717,10 @@
           },
           "connections": {
             "I0": [ "0" ],
-            "I1": [ 84 ],
+            "I1": [ 88 ],
             "I2": [ "1" ],
-            "I3": [ 185 ],
-            "O": [ 186 ]
+            "I3": [ 184 ],
+            "O": [ 185 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q": {
@@ -13763,9 +13740,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 204 ],
-            "E": [ 159 ],
-            "Q": [ 90 ]
+            "D": [ 203 ],
+            "E": [ 38 ],
+            "Q": [ 91 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1": {
@@ -13785,12 +13762,59 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 205 ],
-            "E": [ 159 ],
-            "Q": [ 91 ]
+            "D": [ 204 ],
+            "E": [ 38 ],
+            "Q": [ 92 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1_D_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0111011111110000"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ 36 ],
+            "I1": [ 34 ],
+            "I2": [ 199 ],
+            "I3": [ 37 ],
+            "O": [ 204 ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2": {
+          "hide_name": 0,
+          "type": "SB_DFFE",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/ff_map.v:5.57-5.103"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "E": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 30 ],
+            "D": [ 205 ],
+            "E": [ 38 ],
+            "Q": [ 93 ]
+          }
+        },
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
@@ -13815,7 +13839,7 @@
             "O": [ 205 ]
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2": {
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3": {
           "hide_name": 0,
           "type": "SB_DFFE",
           "parameters": {
@@ -13833,11 +13857,11 @@
           "connections": {
             "C": [ 30 ],
             "D": [ 206 ],
-            "E": [ 159 ],
-            "Q": [ 92 ]
+            "E": [ 38 ],
+            "Q": [ 94 ]
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2_D_SB_LUT4_O": {
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
@@ -13862,7 +13886,7 @@
             "O": [ 206 ]
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3": {
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4": {
           "hide_name": 0,
           "type": "SB_DFFE",
           "parameters": {
@@ -13880,11 +13904,11 @@
           "connections": {
             "C": [ 30 ],
             "D": [ 207 ],
-            "E": [ 159 ],
-            "Q": [ 76 ]
+            "E": [ 38 ],
+            "Q": [ 95 ]
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3_D_SB_LUT4_O": {
+        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4_D_SB_LUT4_O": {
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
@@ -13909,53 +13933,6 @@
             "O": [ 207 ]
           }
         },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4": {
-          "hide_name": 0,
-          "type": "SB_DFFE",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/ff_map.v:5.57-5.103"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "E": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 30 ],
-            "D": [ 208 ],
-            "E": [ 159 ],
-            "Q": [ 77 ]
-          }
-        },
-        "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4_D_SB_LUT4_O": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
-            "LUT_INIT": "0111011111110000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:26.33-27.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ 36 ],
-            "I1": [ 34 ],
-            "I2": [ 203 ],
-            "I3": [ 37 ],
-            "O": [ 208 ]
-          }
-        },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5": {
           "hide_name": 0,
           "type": "SB_DFFE",
@@ -13973,9 +13950,9 @@
           },
           "connections": {
             "C": [ 30 ],
-            "D": [ 209 ],
-            "E": [ 159 ],
-            "Q": [ 78 ]
+            "D": [ 208 ],
+            "E": [ 38 ],
+            "Q": [ 96 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5_D_SB_LUT4_O": {
@@ -13998,9 +13975,9 @@
           "connections": {
             "I0": [ 36 ],
             "I1": [ 34 ],
-            "I2": [ 78 ],
+            "I2": [ 96 ],
             "I3": [ 37 ],
-            "O": [ 209 ]
+            "O": [ 208 ]
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_D_SB_LUT4_O": {
@@ -14023,9 +14000,9 @@
           "connections": {
             "I0": [ 36 ],
             "I1": [ 34 ],
-            "I2": [ 199 ],
+            "I2": [ 198 ],
             "I3": [ 37 ],
-            "O": [ 204 ]
+            "O": [ 203 ]
           }
         }
       },
@@ -14086,23 +14063,23 @@
           "attributes": {
           }
         },
+        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_D_SB_LUT4_O_I2": {
+          "hide_name": 0,
+          "bits": [ 34, 35 ],
+          "attributes": {
+            "force_downto": "00000000000000000000000000000001",
+            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
+          }
+        },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E": {
           "hide_name": 0,
           "bits": [ 32 ],
           "attributes": {
           }
         },
-        "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I2": {
-          "hide_name": 0,
-          "bits": [ 36, 34, 78, 37 ],
-          "attributes": {
-            "force_downto": "00000000000000000000000000000001",
-            "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
-          }
-        },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ 71, 69, 67, 65, 63, 61, 59, 43, 40, 41, 56, 54, 52, 50, 48, 45, 46, 38, 37 ],
+          "bits": [ 75, 73, 71, 69, 67, 65, 63, 47, 44, 45, 60, 58, 56, 54, 52, 49, 50, 42, 37 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:37.23-37.25"
@@ -14110,7 +14087,7 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_CI": {
           "hide_name": 0,
-          "bits": [ "1", 71, 69, 67, 65, 63, 61, 59, 43, 40, 41, 56, 54, 52, 50, 48, 45, 46, 38 ],
+          "bits": [ "1", 75, 73, 71, 69, 67, 65, 63, 47, 44, 45, 60, 58, 56, 54, 52, 49, 50, 42 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -14118,7 +14095,7 @@
         },
         "Tx_SB_LUT4_O_I3_SB_DFFESS_Q_E_SB_LUT4_O_I3_SB_CARRY_CO_I1": {
           "hide_name": 0,
-          "bits": [ 71, 72, 70, 68, 66, 64, 62, 60, 44, 42, 58, 57, 55, 53, 51, 49, 47, 73, 39 ],
+          "bits": [ 75, 76, 74, 72, 70, 68, 66, 64, 48, 46, 62, 61, 59, 57, 55, 53, 51, 77, 43 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:86.13-86.29|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:49.21-49.23"
@@ -14139,14 +14116,14 @@
         },
         "ctr": {
           "hide_name": 0,
-          "bits": [ 93, 95, 117, 116, 114, 112, 110, 108, 100, 98, 106, 105, 103, 121, 120, 123 ],
+          "bits": [ 97, 99, 121, 120, 118, 116, 114, 112, 104, 102, 110, 109, 107, 125, 124, 127 ],
           "attributes": {
             "src": "ice40hx8k.sv:12.16-12.19"
           }
         },
         "ctr_SB_CARRY_CI_CO": {
           "hide_name": 0,
-          "bits": [ "0", 93, 94, 115, 113, 111, 109, 107, 99, 96, 97, 104, 101, 102, 118, 119 ],
+          "bits": [ "0", 97, 98, 119, 117, 115, 113, 111, 103, 100, 101, 108, 105, 106, 122, 123 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -14154,7 +14131,7 @@
         },
         "ctr_SB_DFFSR_Q_D": {
           "hide_name": 0,
-          "bits": [ 131, 130, 129, 128, 127, 126, 139, 138, 137, 136, 135, 134, 133, 132, 125, 122 ],
+          "bits": [ 135, 134, 133, 132, 131, 130, 143, 142, 141, 140, 139, 138, 137, 136, 129, 126 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:21.16-21.23|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -14162,13 +14139,13 @@
         },
         "ctr_SB_DFFSR_Q_R": {
           "hide_name": 0,
-          "bits": [ 124 ],
+          "bits": [ 128 ],
           "attributes": {
           }
         },
         "ctr_SB_DFFSR_Q_R_SB_LUT4_O_I0": {
           "hide_name": 0,
-          "bits": [ 140, 141, 142, 143 ],
+          "bits": [ 144, 145, 146, 147 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "/home/shay/a/ece270/bin/../share/yosys/ice40/cells_map.v:6.21-6.22"
@@ -14190,14 +14167,14 @@
         },
         "hz100": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "src": "ice40hx8k.sv:13.9-13.14"
           }
         },
         "hz100_SB_DFFE_Q_D": {
           "hide_name": 0,
-          "bits": [ 144 ],
+          "bits": [ 148 ],
           "attributes": {
             "src": "ice40hx8k.sv:18.20-18.26"
           }
@@ -14232,7 +14209,7 @@
         },
         "ros.clk": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "hdlname": "ros clk",
             "src": "ice40hx8k.sv:111.20-111.64|ice40hx8k.sv:126.17-126.20"
@@ -14319,7 +14296,7 @@
         },
         "top_inst.hz100": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "hdlname": "top_inst hz100",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:5.16-5.21"
@@ -14440,7 +14417,7 @@
         },
         "top_inst.u1.clk": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "hdlname": "top_inst u1 clk",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:30.15-30.18|top.sv:19.6-19.68"
@@ -14464,7 +14441,7 @@
         },
         "top_inst.u1.d_out_SB_DFFR_Q_R": {
           "hide_name": 0,
-          "bits": [ 146 ],
+          "bits": [ 150 ],
           "attributes": {
           }
         },
@@ -14486,7 +14463,7 @@
         },
         "top_inst.u2.clk": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "hdlname": "top_inst u2 clk",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:43.15-43.18|top.sv:25.10-25.79"
@@ -14510,15 +14487,15 @@
         },
         "top_inst.u2.sync_reg": {
           "hide_name": 0,
-          "bits": [ 24, 147 ],
+          "bits": [ 24 ],
           "attributes": {
             "hdlname": "top_inst u2 sync_reg",
-            "src": "ice40hx8k.sv:112.9-120.6|top.sv:46.13-46.21|top.sv:25.10-25.79"
+            "src": "ice40hx8k.sv:112.9-120.6|top.sv:46.7-46.15|top.sv:25.10-25.79"
           }
         },
         "top_inst.u3.clk": {
           "hide_name": 0,
-          "bits": [ 145 ],
+          "bits": [ 149 ],
           "attributes": {
             "hdlname": "top_inst u3 clk",
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:61.15-61.18|top.sv:22.7-22.83"
@@ -14558,14 +14535,14 @@
         },
         "top_inst.u3.q_out_SB_DFFER_Q_D": {
           "hide_name": 0,
-          "bits": [ 148 ],
+          "bits": [ 151 ],
           "attributes": {
             "src": "ice40hx8k.sv:112.9-120.6|top.sv:65.1-73.19|top.sv:22.7-22.83"
           }
         },
         "top_inst.u3.q_out_SB_DFFER_Q_E": {
           "hide_name": 0,
-          "bits": [ 149 ],
+          "bits": [ 152 ],
           "attributes": {
           }
         },
@@ -14675,7 +14652,7 @@
         },
         "uart_inst.uart_tx_inst.bit_cnt": {
           "hide_name": 0,
-          "bits": [ 36, 153, 151, 154 ],
+          "bits": [ 36, 39, 40, 41 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst bit_cnt",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:71.11-71.18|uart/uart.v:78.1-91.2"
@@ -14683,7 +14660,7 @@
         },
         "uart_inst.uart_tx_inst.bit_cnt_SB_DFFESR_Q_D": {
           "hide_name": 0,
-          "bits": [ 158, 152, 150, 156 ],
+          "bits": [ 158, 154, 153, 156 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:103.28-103.39|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -14707,7 +14684,7 @@
         },
         "uart_inst.uart_tx_inst.data_reg": {
           "hide_name": 0,
-          "bits": [ 35, 168, 167, 166, 165, 164, 163, 162, 161 ],
+          "bits": [ 35, 167, 166, 165, 164, 163, 162, 161, 160 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst data_reg",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:69.20-69.28|uart/uart.v:78.1-91.2"
@@ -14715,7 +14692,7 @@
         },
         "uart_inst.uart_tx_inst.data_reg_SB_DFFE_Q_E": {
           "hide_name": 0,
-          "bits": [ 160 ],
+          "bits": [ 159 ],
           "attributes": {
           }
         },
@@ -14745,7 +14722,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg": {
           "hide_name": 0,
-          "bits": [ 78, 77, 76, 92, 91, 90, 89, 88, 87, 86, 79, 80, 81, 85, 82, 75, 74, 83, 84 ],
+          "bits": [ 96, 95, 94, 93, 92, 91, 90, 89, 84, 82, 80, 79, 81, 83, 85, 86, 78, 87, 88 ],
           "attributes": {
             "hdlname": "uart_inst uart_tx_inst prescale_reg",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:70.12-70.24|uart/uart.v:78.1-91.2"
@@ -14753,7 +14730,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D": {
           "hide_name": 0,
-          "bits": [ 71, 203, 202, 201, 200, 199, 190, 189, 188, 198, 197, 196, 195, 194, 193, 192, 191, 187, 186 ],
+          "bits": [ 75, 202, 201, 200, 199, 198, 189, 188, 187, 197, 196, 195, 194, 193, 192, 191, 190, 186, 185 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -14761,7 +14738,7 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFESR_Q_D_SB_LUT4_O_I3": {
           "hide_name": 0,
-          "bits": [ "1", 78, 169, 183, 182, 181, 180, 179, 172, 170, 171, 178, 177, 176, 175, 173, 174, 184, 185 ],
+          "bits": [ "1", 96, 168, 182, 181, 180, 179, 178, 171, 169, 170, 177, 176, 175, 174, 172, 173, 183, 184 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:88.29-88.45|uart/uart.v:78.1-91.2|/home/shay/a/ece270/bin/../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -14769,49 +14746,49 @@
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_1_D": {
           "hide_name": 0,
-          "bits": [ 205 ],
+          "bits": [ 204 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_2_D": {
           "hide_name": 0,
-          "bits": [ 206 ],
+          "bits": [ 205 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_3_D": {
           "hide_name": 0,
-          "bits": [ 207 ],
+          "bits": [ 206 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_4_D": {
           "hide_name": 0,
-          "bits": [ 208 ],
+          "bits": [ 207 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_5_D": {
           "hide_name": 0,
-          "bits": [ 209 ],
+          "bits": [ 208 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_D": {
           "hide_name": 0,
-          "bits": [ 204 ],
+          "bits": [ 203 ],
           "attributes": {
             "src": "ice40hx8k.sv:84.10-96.6|uart/uart_tx.v:78.1-113.4|uart/uart.v:78.1-91.2"
           }
         },
         "uart_inst.uart_tx_inst.prescale_reg_SB_DFFE_Q_E": {
           "hide_name": 0,
-          "bits": [ 159 ],
+          "bits": [ 38 ],
           "attributes": {
           }
         },
