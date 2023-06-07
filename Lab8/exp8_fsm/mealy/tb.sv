@@ -44,6 +44,24 @@ clock(1);
     testname="random test5 with N_RST high";
     I = 1'b1; N_RST = 1'b1;
 clock(1);
-// add your test cases here
+// add test case for 11011011010
+    testname="test case for 11011011010";
+    // set N_RST to high
+    N_RST = 1'b1;
+
+    //feed in 11011011010
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b0; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b0; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b0; #0.25; clock(1);
+    I = 1'b1; #0.25; clock(1);
+    I = 1'b0; #0.25; clock(1);
+
+
 end
 endmodule
