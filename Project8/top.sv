@@ -16,8 +16,56 @@ module top (
   input  logic txready, rxready
 );
 
-  // your code here...
+  //100hz to 13hz /div 8
+  clkdiv u2(
+    .clk(hz100),
+    .rst(reset),
+    .lim(8'd3),
+    .hzX(right[1])
+  );
+
+  // 100hz to 10hz div  10
+  clkdiv u1(
+    .clk(hz100),
+    .rst(reset),
+    .lim(8'd4),
+    .hzX(right[0])
+  );
+
+  //100hz to 4hz /div 25
+  clkdiv u3(
+    .clk(hz100),
+    .rst(reset),
+    .lim(8'd12),
+    .hzX(right[2])
+  );
 
 endmodule
 
-// extra modules here...
+module clkdiv #(
+    parameter BITLEN = 8
+) (
+    input logic clk, rst, 
+    input logic [BITLEN-1:0] lim,
+    output logic hzX
+);
+
+  logic [BITLEN-1:0] cnt;
+
+  always_ff @ (posedge clk, posedge rst) begin
+    if (rst) begin
+      cnt <= 0;
+      hzX <= 0;
+    end
+    else begin
+      cnt <= cnt + 1;
+      if (cnt == lim) begin
+        cnt <= 0;
+        hzX <= ~hzX;
+      end
+    end
+  end
+
+endmodule
+
+//
