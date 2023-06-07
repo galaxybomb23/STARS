@@ -44,6 +44,6 @@ always_ff @(posedge clk or negedge n_rst)
   o <= (state == S3 && i);
   end
   
-
-
 endmodule
+
+//patterncount
