@@ -19,7 +19,7 @@ module top (
 endmodule
 
 // mealy machine to detect 1101 pattern
-module mealy1101(
+module mealy(
   input logic clk, n_rst, i, 
   output logic o
 );
@@ -29,9 +29,11 @@ FSM state;
 
 
 always_ff @(posedge clk or negedge n_rst)
-  if (!n_rst)
+  if (!n_rst) begin
     state <= S0;
-  else
+    o <= 0;
+  end
+  else begin
     case (state)
       S0: state <= (i) ? S1 : S0;
       S1: state <= (i) ? S2 : S0;
@@ -39,7 +41,9 @@ always_ff @(posedge clk or negedge n_rst)
       S3: state <= (i) ? S1 : S0;
       default: state <= S0;
     endcase
+  o <= (state == S3 && i);
+  end
   
-assign o = (state == S3 && i);
+
 
 endmodule

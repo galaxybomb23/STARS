@@ -21,7 +21,7 @@ module top (
 endmodule
 
 //moore machine for 1101 pattern
-module moore1101(
+module moore(
   input logic clk, n_rst, i,
   output logic o
 );
