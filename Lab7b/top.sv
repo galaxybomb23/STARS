@@ -18,10 +18,28 @@ module top (
 
 // Write your code here
   
+//task 2
+sync_low u2(.clk(hz100), .n_rst(pb[0]), .async_in(pb[1]), .sync_out(right[1]));
 
   
 endmodule
 
+//2-bit synchronizer
+module sync_low(
+  input logic clk, n_rst, async_in,
+  output logic sync_out
+);
+logic sync_reg;
+always_ff @(posedge clk, negedge n_rst)
+  if (!n_rst) begin
+    sync_out <= 1'b0;
+    sync_reg <= 1'b0;
+  end
+  else begin
+    sync_reg <= async_in;
+    sync_out <= sync_reg;
+  end
 
-// Add extra modules here
+endmodule
 
+//synchroflop!
