@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Mon Jun  5 13:19:30 2023
+[*]
+[dumpfile] "/Users/fahadaloufi/Desktop/STARS/Wk4/lab7b/Lab7b.vcd"
+[dumpfile_mtime] "Mon Jun  5 13:17:33 2023"
+[dumpfile_size] 2581
+[savefile] "/Users/fahadaloufi/Desktop/STARS/Wk4/lab7b/addwave.gtkw"
+[timestart] 26500
+[size] 1000 600
+[pos] -1 -1
+*-14.000000 39930 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 167
+[sst_expanded] 1
+[sst_vpaned_height] 167
+@820
+lab_testbench.testname[1023:0]
+@28
+lab_testbench.CLK
+lab_testbench.N_RST
+lab_testbench.ASYNC_IN
+lab_testbench.SYNC_OUT
+[pattern_trace] 1
+[pattern_trace] 0
