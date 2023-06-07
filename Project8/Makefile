@@ -9,7 +9,7 @@ NEXTPNR=nextpnr-ice40
 SHELL=bash
 
 # project vars and filenames
-PROJ	= <project_name>
+PROJ	= project8
 PINMAP 	= pinmap.pcf
 TCLPREF = addwave.gtkw
 SRC	= top.sv
