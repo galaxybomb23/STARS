@@ -16,8 +16,30 @@ module top (
   input  logic txready, rxready
 );
 
-  // Your code goes here...
-  
 endmodule
 
-// Add more modules down here...
+// mealy machine to detect 1101 pattern
+module mealy1101(
+  input logic clk, n_rst, i, 
+  output logic o
+);
+  
+typedef enum {S0,S1,S2,S3} FSM;
+FSM state;
+
+
+always_ff @(posedge clk or negedge n_rst)
+  if (!n_rst)
+    state <= S0;
+  else
+    case (state)
+      S0: state <= (i) ? S1 : S0;
+      S1: state <= (i) ? S2 : S0;
+      S2: state <= (i) ? S2 : S3;
+      S3: state <= (i) ? S1 : S0;
+      default: state <= S0;
+    endcase
+  
+assign o = (state == S3 && i);
+
+endmodule

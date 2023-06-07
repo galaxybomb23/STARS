@@ -20,4 +20,30 @@ module top (
   
 endmodule
 
-// Add more modules down here...
+//moore machine for 1101 pattern
+module moore1101(
+  input logic clk, n_rst, i,
+  output logic o
+);
+
+//states
+typedef enum logic [2:0] {S0, S1, S2, S3, S4} state_t;
+state_t state;
+
+//next state logic
+always_ff @(posedge clk, negedge n_rst)
+  if(!n_rst)
+    state <= S0;
+  else
+    case(state)
+      S0: state <= i ? S1 : S0;
+      S1: state <= i ? S2 : S0;
+      S2: state <= i ? S2 : S3;
+      S3: state <= i ? S4 : S0;
+      S4: state <= i ? S2 : S0;
+      default state <= S0;
+    endcase
+
+//output logic
+assign o = (state == S4);
+endmodule
