@@ -18,51 +18,86 @@
 
     //init states
     logic in, clk, rst;
+    logic [5:0] password, buffer;
     assign rst = pb[3];
     
 
     typedef enum logic [3:0] {S0,S1,S2,S3,S4,S5,S6} state_t;
     state_t state, next_state;
 
+    typedef enum logic [1:0] {EDIT,LOCK} mode_t;
+    mode_t mode;
+
     //Register input
     always_ff @(posedge hz100, posedge rst) begin
       if (rst) begin
         in <= 0;
+        clk <= 0;
       end else begin
+        //input logic
         if (pb[0]) begin
           in <= 0;
+          clk <= 1;
         end else if (pb[1]) begin
           in <= 1;
-        end
-        else if( pb[2])
           clk <= 1;
+        end
         else
           clk <= 0;
       end
     end
 
+    //lock vs edit mode
+    always_ff @(posedge clk, posedge rst) begin
+      if (rst) begin
+        password <= 6'b000000;
+        mode <= EDIT;
+      end else begin
+        if(mode == EDIT) begin
+
+          if (pb[2]) 
+            mode <= LOCK;
+          end
+
+        else if(state == S6) 
+            mode <= EDIT;
+          
+        end 
+      end
+    
+
     //update state
     always_ff @(posedge clk, posedge rst) begin
       if (rst) begin
         state <= S0;
+
       end else begin
-        state <= next_state;
+        if (mode == EDIT) begin
+          password <= {password[4:0], in};
+        end
+        else begin 
+          state <= next_state;
+          buffer <= {buffer[4:0], in};
+          end
       end
     end
 
-
     //next state logic
     always_comb begin : next_state_logic
-      case(state)
-        S0: next_state = in ? S1 : S0;
-        S1: next_state = in ? S1 : S2;
-        S2: next_state = in ? S3 : S0;
-        S3: next_state = in ? S1 : S4;
-        S4: next_state = in ? S5 : S4;
-        S5: next_state = in ? S6 : S2;
-        S6: next_state = in ? S1 : S2;
+      case (state)
+        S0: next_state = (in == password[0]) ? S1 : S0;
+        S1: next_state = (in == password[1]) ? S2 : S0;
+        S2: next_state = (in == password[2]) ? S3 : S0;
+        S3: next_state = (in == password[3]) ? S4 : S0;
+        S4: next_state = (in == password[4]) ? S5 : S0;
+        S5: next_state = (in == password[5]) ? S6 : S0;
+        S6: next_state = S0;
         default: next_state = S0;
       endcase
+
+
+      green = mode == EDIT;
+      red = mode == LOCK;
     end
 
     //output logic
@@ -84,22 +119,23 @@
         ss5 = 8'b00111000; //L
         ss4 = 8'b00111111;; //O
         ss3 = 8'b00111001; //C
-        ss2 = 8'b01110000; //K
+        ss2 = 8'b00111001; //C
       end
     end
 
-  //show state and next state
+  //show state 
   ssdec ssdec0(.in(state), .enable(1'b1), .out(ss7[6:0]));
-  ssdec ssdec1(.in(next_state), .enable(1'b1), .out(ss0[6:0]));
-  assign ss7[7] = in;
-    
+
+  //show password
+  disp1 disp0(.pass(password), .buff(buffer), .mode(mode), .rst(rst), .out({ss5, ss4, ss3, ss2, ss1, ss0}));
+
 
   endmodule
 
   module ssdec(
-                input logic [3:0]in,
-                input logic enable,
-                output logic [6:0]out
+    input logic [3:0]in,
+    input logic enable,
+    output logic [6:0]out
   );
     logic [6:0] SEG7 [15:0];
     
@@ -122,4 +158,40 @@
 
 
     assign out = enable ? SEG7[in] : 7'b0000000; // enable implimentation
+  endmodule
+  module disp1(
+    input logic [5:0] pass, buff,
+    input logic [1:0] mode,
+    input logic rst,
+    output logic [7:0] out [0:5]
+  );
+  always_comb begin
+    if(rst) begin
+      out[0] = 8'b00000000;
+      out[1] = 8'b00000000;
+      out[2] = 8'b00000000;
+      out[3] = 8'b00000000;
+      out[4] = 8'b00000000;
+      out[5] = 8'b00000000;
+    end
+    else begin
+     if (|mode) begin //lock
+      out[0] = buff[0] ? 8'b00000110 : 8'b00111111;
+      out[1] = buff[1] ? 8'b00000110 : 8'b00111111;
+      out[2] = buff[2] ? 8'b00000110 : 8'b00111111;
+      out[3] = buff[3] ? 8'b00000110 : 8'b00111111;
+      out[4] = buff[4] ? 8'b00000110 : 8'b00111111;
+      out[5] = buff[5] ? 8'b00000110 : 8'b00111111;
+    end
+    else begin
+      out[0] = pass[0] ? 8'b00000110 : 8'b00111111;
+      out[1] = pass[1] ? 8'b00000110 : 8'b00111111;
+      out[2] = pass[2] ? 8'b00000110 : 8'b00111111;
+      out[3] = pass[3] ? 8'b00000110 : 8'b00111111;
+      out[4] = pass[4] ? 8'b00000110 : 8'b00111111;
+      out[5] = pass[5] ? 8'b00000110 : 8'b00111111;
+    end
+    end
+    
+  end
   endmodule
