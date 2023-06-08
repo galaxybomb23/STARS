@@ -15,32 +15,58 @@
     output logic txclk, rxclk,
     input  logic txready, rxready
   );
-  logic hz50;
+  logic hzX, hz2;
+  logic [7:0] divider;
   logic [1:0] green_reg;
   logic [2:0] ctrl;
   logic [15:0] signal_buffer;
-  logic [59:0] snake_reg;
+  logic [59:0] snake_reg [0:7];
 
-  //clock divider
+  //clock divider X
   clkdiv u1 (
     .clk(hz100),
     .rst(reset),
-    .lim(8'd2),
-    .hzX(hz50)
+    .lim(divider),
+    .hzX(hzX)
+  );
+  //clock divider 2
+  clkdiv u2 (
+    .clk(hzX),
+    .rst(reset),
+    .lim(8'd1),
+    .hzX(hz2)
   );
 
-  //snake
+  //snake 1
   RingCounter RingCounter (
-    .clk(hz50),
+    .clk(hzX),
     .reset(reset),
-    .snake_reg(snake_reg)
+    .snake_reg(snake_reg[0])
+  );
+
+  //snake 2
+  RingCounter RingCounter_1 (
+    .clk(hzX),
+    .reset(reset),
+    .snake_reg(snake_reg[1])
   );
 
   //snake multiplexer
-  always_ff @ (posedge hz50, posedge reset) begin
+  always_ff @ (posedge hz2, posedge reset) begin
     if (reset) begin
       ctrl <= 3'b0;
+      divider <= 8'd2;
     end
+    else if (pb[8])
+      if (divider >= 8'd19)
+        divider <= 8'd20;
+      else
+        divider <= divider + 2;
+    else if (pb[11])
+      if (divider <= 8'b00000010)
+        divider <= 8'b00000000;
+      else
+        divider <= divider - 2;
     else 
       case ({pb[7:0]})
         8'b00000001: ctrl <= 3'b000;
@@ -53,6 +79,8 @@
         8'b10000000: ctrl <= 3'b111;
         default: ctrl <= ctrl;
       endcase
+
+    
   end 
   always_comb begin
     {ss0, ss1, ss2, ss3, ss4, ss5, ss6, ss7, left, right, red, green_reg, blue, signal_buffer} = 0;
@@ -70,32 +98,35 @@
           ss5[2],ss5[1],ss5[0],
           ss6[1],ss6[2],ss6[3],
           ss7[2],ss7[1],ss7[0],
-          ss7[5],ss7[4],ss7[7],ss6[7],ss5[7],ss4[7],ss3[7],ss2[7],ss1[7]} = snake_reg;
+          ss7[5],ss7[4],ss7[7],ss6[7],ss5[7],ss4[7],ss3[7],ss2[7],ss1[7]} = snake_reg[0];
       1:  // design 2
         {
-          right[0], left[7],
-          right[1], left[6],
-          right[2], left[5],
-          right[3], left[4],
-          right[4], left[3],
-          right[5], left[2],
-          right[6], left[1],
-          right[7], left[0],
-          red, blue, green_reg[0], green_reg[1],
-          ss3[4], ss4[2],  
-          ss3[5], ss4[1],
-          ss3[0], ss4[0],
-          ss2[5], ss5[1],
-          ss2[4], ss5[2],
-          ss2[3], ss5[3],
-          ss1[4], ss6[2],
-          ss1[5], ss6[1],
-          ss1[0], ss6[0],
-          ss0[0], ss7[0],
-          ss0[1], ss7[5],
+          //buffer
+          signal_buffer,
+          //snake
           ss0[2], ss7[4],
-          //16 other segments
-          signal_buffer} = snake_reg;
+          ss0[1], ss7[5],
+          ss0[0], ss7[0],
+          ss1[0], ss6[0],
+          ss1[5], ss6[1],
+          ss1[4], ss6[2],
+          ss2[3], ss5[3],
+          ss2[4], ss5[2],
+          ss2[5], ss5[1],
+          ss3[0], ss4[0],
+          ss3[5], ss4[1],
+          ss3[4], ss4[2],
+          green_reg[1], green_reg[0],
+          blue, red,
+          left[0], right[7],
+          left[1], right[6],
+          left[2], right[5],
+          left[3], right[4],
+          left[4], right[3],
+          left[5], right[2],
+          left[6], right[1],
+          left[7], right[0]
+                            } = snake_reg[1];
         default: red = 1;
   endcase
   end
@@ -122,7 +153,7 @@
       end
       else begin
         cnt <= cnt + 1;
-        if (cnt == lim) begin
+        if (cnt = lim) begin
           cnt <= 0;
           hzX <= ~hzX;
         end
