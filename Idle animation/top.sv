@@ -19,8 +19,13 @@
   logic [7:0] divider;
   logic [1:0] green_reg;
   logic [2:0] ctrl;
-  logic [15:0] signal_buffer;
-  logic [59:0] snake_reg [0:7];
+
+
+  //snake registers
+  logic [59:0] snake_reg_0;
+  logic [43:0] snake_reg_1;
+  logic [7:0]  snake_reg_2;
+  
 
   //clock divider X
   clkdiv u1 (
@@ -37,18 +42,25 @@
     .hzX(hz2)
   );
 
-  //snake 1
+  //snake 1 60reg,4bit
   RingCounter RingCounter (
     .clk(hzX),
     .reset(reset),
-    .snake_reg(snake_reg[0])
+    .snake_reg(snake_reg_0)
   );
 
-  //snake 2
-  RingCounter RingCounter_1 (
+  //snake 2 44reg,4bit
+  RingCounter #(44,6)RingCounter_1 (
     .clk(hzX),
     .reset(reset),
-    .snake_reg(snake_reg[1])
+    .snake_reg(snake_reg_1)
+  );
+
+  //snake 3 4reg,2bit
+  RingCounter #(8,4) RingCounter_2 (
+    .clk(hzX),
+    .reset(reset),
+    .snake_reg(snake_reg_2)
   );
 
   //snake multiplexer
@@ -83,7 +95,7 @@
     
   end 
   always_comb begin
-    {ss0, ss1, ss2, ss3, ss4, ss5, ss6, ss7, left, right, red, green_reg, blue, signal_buffer} = 0;
+    {ss0, ss1, ss2, ss3, ss4, ss5, ss6, ss7, left, right, red, green_reg, blue} = 0;
     case (ctrl)
       0: { //design 1
           ss0[7],
@@ -98,11 +110,9 @@
           ss5[2],ss5[1],ss5[0],
           ss6[1],ss6[2],ss6[3],
           ss7[2],ss7[1],ss7[0],
-          ss7[5],ss7[4],ss7[7],ss6[7],ss5[7],ss4[7],ss3[7],ss2[7],ss1[7]} = snake_reg[0];
+          ss7[5],ss7[4],ss7[7],ss6[7],ss5[7],ss4[7],ss3[7],ss2[7],ss1[7]} = snake_reg_0;
       1:  // design 2
         {
-          //buffer
-          signal_buffer,
           //snake
           ss0[2], ss7[4],
           ss0[1], ss7[5],
@@ -126,9 +136,17 @@
           left[5], right[2],
           left[6], right[1],
           left[7], right[0]
-                            } = snake_reg[1];
+                            } = snake_reg_1;
+      2: begin
+          {right,left,red} = snake_reg_2[0] ? 17'b11111111111111111: 0;
+          {ss0[7], ss0[3], ss1[7], ss1[3],  ss2[7], ss2[3], ss3[7], ss3[3], ss4[7], ss4[3], ss5[7], ss5[3], ss6[7], ss6[3], ss7[7], ss7[3]} = snake_reg_2[1] ? 16'b1111111111111111: 0;
+          {ss0[6], ss1[6], ss2[6], ss3[6], ss4[6], ss5[6], ss6[6], ss7[6]} = snake_reg_2[2] ? 8'b11111111: 0;
+          {ss0[0], ss1[0], ss2[0], ss3[0], ss4[0], ss5[0], ss6[0], ss7[0]} = snake_reg_2[3] ? 8'b11111111: 0;
+
+        end
+          
         default: red = 1;
-  endcase
+    endcase
   end
 
  assign green = (|green_reg);
@@ -163,29 +181,30 @@
   endmodule
 
   //
-  module RingCounter (
+  module RingCounter #(
+    parameter REGLEN = 60,
+    parameter SNKLEN = 4
+  )(
     input wire clk,
     input wire reset,
-    output wire [59:0] snake_reg
+    output wire [REGLEN-1:0] snake_reg
   );
 
-    reg [3:0] counter;
-    reg [59:0] temp_reg;
-    logic [3:0] temp_shift;
+    logic [REGLEN-1:0] temp_reg;
+    logic [SNKLEN-1:0] temp_shift;
 
     always @(posedge clk or posedge reset) begin
       if (reset) begin
-        counter <= 4'b0;
-        temp_reg <= 60'b0;
-        temp_shift <= 4'b1;
+        temp_reg <= '0;
+        temp_shift <= '1;
         end
       else begin
         if(|temp_shift) begin
-          temp_reg <= {temp_reg[58:0],1'b1};
-          temp_shift <= {temp_shift[2:0],1'b0};
+          temp_reg <= {temp_reg[REGLEN-2:0],1'b1};
+          temp_shift <= {temp_shift[SNKLEN-2:0],1'b0};
         end
         else begin
-          temp_reg <= {temp_reg[58:0],temp_reg[59]};
+          temp_reg <= {temp_reg[REGLEN-2:0],temp_reg[REGLEN-1]};
         end
 
       end
@@ -194,3 +213,36 @@
     assign snake_reg = temp_reg;
 
   endmodule
+
+// module pwm #(
+//     parameter int CTRVAL = 256,
+//     parameter int CTRLEN = $clog2(CTRVAL)
+// )
+// (
+//     input logic clk, rst, enable,
+//     input logic [CTRLEN-1:0] duty_cycle,
+//     //output logic [CTRLEN-1:0] counter,
+//     output logic pwm_out
+// );
+
+//   // Internal register to hold the counter value
+//   logic [CTRLEN-1:0] counter_reg;
+
+//   always_ff @ (posedge clk, posedge rst)
+//   begin
+//     if (rst) // Asynchronous reset
+//       counter_reg <= 0;
+//     else if (enable) // Only increment if enable is high
+//       counter_reg <= counter_reg + 1;
+//   end
+  
+//   // Assign the counter output
+//  // assign counter = counter_reg;
+  
+//   // Assign the PWM output
+//   assign pwm_out = (counter_reg <= duty_cycle);
+
+// endmodule
+
+
+// Add more modules down here...
