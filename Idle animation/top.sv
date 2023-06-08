@@ -1,4 +1,4 @@
-  `default_nettype none
+    `default_nettype none
   // Empty top module
 
   module top (
@@ -153,7 +153,7 @@
       end
       else begin
         cnt <= cnt + 1;
-        if (cnt = lim) begin
+        if (cnt == lim) begin
           cnt <= 0;
           hzX <= ~hzX;
         end
