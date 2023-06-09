@@ -139,3 +139,4 @@
     
   end
   endmodule
+  //combinational
